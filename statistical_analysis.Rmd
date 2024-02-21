@@ -1,0 +1,111 @@
+---
+title: "Statistical Analysis"
+author: "Simeon Q. Smeele"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+## Prospective delay
+
+Since the experiment was conducted in discrete phases, with each phase representing a discrete increase in difficulty, we treated the phase as an ordered categorical variable. We used a similar Bayesian logistic model, including animal, behaviour, double blind, date, trainer marking the behaviour and trainer recalling the behaviour as varying effects on the intercept. We also included the normalised natural logarithm of the number distractions and the phase as predictors. We included varying effects for animal on the slopes, to allow individuals to respond differently to these challenges. 
+
+$$\begin{aligned}
+\text{response}_i & \sim \text{binomial}(1, p_i)\\
+\text{logit}(p_i) & = \phi_i - \beta_{\text{I}[i]} * \sum_{j=0}^{\text{P}[i]-1}\delta_j + \xi_{\text{I}[i]}*\text{LD}_{[i]}\\
+\phi_i &= \alpha_{\text{I}[i]} + \gamma_{\text{B}[i]} + \zeta_{\text{DB}[i]} + \eta_{\text{D}[i]} + \iota_{\text{TM}[i]} + \kappa_{\text{TR}[i]}\\
+\alpha & \sim \text{normal}(\overline{\alpha},\sigma_\alpha)\\
+\overline{\alpha} & \sim \text{normal}(-0.7, 1.5)\\
+\gamma & \sim \text{normal}(0,\sigma_\gamma)\\
+\zeta & \sim \text{normal}(0,\sigma_\zeta)\\
+\eta & \sim \text{normal}(0,\sigma_\eta)\\
+\iota & \sim \text{normal}(0,\sigma_\iota)\\
+\kappa & \sim \text{normal}(0,\sigma_\kappa)\\
+\beta & \sim \text{normal}(\overline{\beta},\sigma_\beta)\\
+\overline{\beta} & \sim \text{exponential}(1)\\
+\xi & \sim \text{normal}(\overline{\xi},\sigma_\xi)\\
+\overline{\xi} & \sim \text{normal}(0,1)\\
+\sigma_{\alpha:\xi} & \sim \text{exponential}(2)\\
+\delta & \sim \text{dirichlet}(2, 2, 2, 2). 
+\end{aligned}$$
+
+Where I = individual, B = behaviour, DB = double blind, D = date, TM = trainer mark, TR = trainer recall and LD = normalised log number of distractions. We restricted the slope of the phase to negative values, but allowed positive values for the slope of the distractions. 
+
+## Prospective control
+
+To compare the performance between control dolphins (without explicit training for delays) and test dolphins (with explicit training for delays), we used a similar model, where the experimental group was included as varying effect:
+
+$$\begin{aligned}
+\text{response}_i & \sim \text{binomial}(1, p_i)\\
+\text{logit}(p_i) & =  \alpha_{\text{I}[i]} + \gamma_{\text{B}[i]} + \chi_{\text{E}[i]}\\
+\alpha & \sim \text{normal}(\overline{\alpha},\sigma_\alpha)\\
+\gamma & \sim \text{normal}(0,\sigma_\gamma)\\
+\chi & \sim \text{normal}(0,\sigma_\chi)\\
+\overline{\alpha} & \sim \text{normal}(-0.7, 1.5)\\
+\sigma_\alpha & \sim \text{exponential}(1)\\
+\sigma_\gamma & \sim \text{exponential}(2)\\
+\sigma_\chi & \sim \text{exponential}(1). 
+\end{aligned}$$
+
+Where I = individual, B = behaviour and E = experimental group. The models for the 3 minute and 2 hour experiments were the same.
+
+## Retrospective no delay
+
+To model the performance of in the retrospective trials with no delay we used the following model:
+
+$$\begin{aligned}
+\text{response}_i & \sim \text{binomial}(1,\ p_i)\\
+    \text{logit}(p_i) & = \alpha_{\text{I}[i]} + \gamma_{\text{B}[i]}\\
+    \alpha & \sim \text{normal}(\overline{\alpha},\sigma_\alpha)\\
+    \gamma & \sim \text{normal}(0,\sigma_\gamma)\\
+    \overline{\alpha} & \sim  \text{normal}(-1,\ 2)\\
+    \gamma & \sim  \text{normal}(0,\ \sigma_\gamma)\\
+    \xi & \sim  \text{normal}(0,\ \sigma_\xi)\\
+    \sigma_\alpha & \sim \text{exponential}(2)\\
+    \sigma_\gamma & \sim \text{exponential}(2)\\
+\end{aligned}$$
+
+Where I = individual and B = behaviour.
+
+## Retrospective delay
+
+To model the effect of delay on the performance during the retrospective trials, we used a similar model, where we included log(time) as an additional variable: 
+
+$$\begin{aligned}
+\text{response}_i & \sim \text{binomial}(1,\ p_i)\\
+    \text{logit}(p_i) & = \alpha_{\text{I}[i]} + \gamma_{\text{B}[i]} + \beta_{[i]} * \text{log(time)}\\
+    \beta_{[i]} &= \omega_{\text{I}[i]} + \epsilon_{\text{B}[i]}\\
+    \alpha & \sim \text{normal}(\overline{\alpha},\sigma_\alpha)\\
+    \gamma & \sim \text{normal}(0,\sigma_\gamma)\\
+    \overline{\alpha} & \sim  \text{normal}(-1,\ 2)\\
+    \gamma & \sim  \text{normal}(0,\ \sigma_\gamma)\\
+    \xi & \sim  \text{normal}(0,\ \sigma_\xi)\\
+    \omega & \sim  \text{normal}(0,\ \sigma_\omega)\\
+    \epsilon & \sim  \text{normal}(0,\ \sigma_\epsilon)\\
+    \sigma_{\alpha:\epsilon} & \sim \text{exponential}(2).
+\end{aligned}$$
+
+Where I = individual and B = behaviour.
+
+## Enactment effect
+
+To model the effect of performing an action before being asked to reproduce it (enactment effect) we ran a model that included this experimental group as varying effect and also included the phase (duration of delay) interacting with the experimental group as varying effect (meaning that we included an off-set for each combination of experimental group and phase - four off-sets in total). We also included a varying effect for individual. The model had the following structure:
+
+$$\begin{aligned}
+\text{response}_i & \sim \text{binomial}(1,\ p_i)\\
+    \text{logit}(p_i) & = \alpha_{\text{I}[i]} + \chi_{\text{E}[i]} + \nu_{\text{EP}[i]}\\
+    \alpha & \sim \text{normal}(\overline{\alpha},\sigma_\alpha) \\
+    \overline{\alpha} & \sim  \text{normal}(-0.7,\ 1)\\
+    \chi & \sim \text{normal}(0,\sigma_\chi)\\
+    \nu & \sim \text{normal}(0,\sigma_\nu)\\
+    \sigma_{\alpha} & \sim \text{exponential}(1)\\
+    \sigma_{\chi} & \sim \text{exponential}(1)\\
+    \sigma_{\nu} & \sim \text{exponential}(1).
+\end{aligned}$$
+
+Where I = individual, E = experimental group and EP = experimental group and phase.
+
+
+
+
+

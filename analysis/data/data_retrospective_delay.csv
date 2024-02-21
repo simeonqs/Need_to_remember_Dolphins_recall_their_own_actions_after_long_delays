@@ -1,0 +1,577 @@
+Animal;Session;correct.or.not.1;correct.or.not.2;delay;b1;b2
+Clara;1;c;n;3;canto;repeat
+Clara;1;c;c;3;aplauso;repeat
+Clara;1;c;n;6;giro;repeat
+Clara;1;c;n;3;canto;repeat
+Clara;1;c;c;3;giro;canto
+Clara;1;c;c;3;belly up;repeat
+Clara;1;c;n;6;aplauso;repeat
+Clara;1;c;c;3;belly up;belly up
+Clara;1;c;c;3;giro;aplauso
+Clara;1;c;n;3;belly up;repeat
+Clara;1;c;c;3;giro;repeat
+Clara;1;c;c;6;canto;aplauso
+Clara;1;c;n;6;belly up;repeat
+Clara;1;c;n;3;canto;repeat
+Clara;1;c;n;3;giro;repeat
+Clara;1;c;n;3;aplauso;repeat
+Clara;2;c;c;3;belly up;giro
+Clara;2;c;n;3;aplauso;repeat
+Clara;2;c;c;3;giro;repeat
+Clara;2;c;c;6;canto;repeat
+Clara;2;c;c;9;belly up;canto
+Clara;2;c;n;9;aplauso;repeat
+Clara;2;c;n;6;canto;repeat
+Clara;2;c;n;3;belly up;repeat
+Clara;2;c;c;3;aplauso;canto
+Clara;2;c;n;3;belly up;repeat
+Clara;2;c;c;3;aplauso;repeat
+Clara;2;c;n;6;canto;repeat
+Clara;2;c;c;3;giro;aplauso
+Clara;2;c;c;3;giro;repeat
+Clara;2;c;n;6;belly up;repeat
+Clara;2;c;c;3;giro;repeat
+Clara;3;c;n;0;belly up;repeat
+Clara;3;c;c;0;canto;repeat
+Clara;3;c;c;3;aplauso;aplauso
+Clara;3;c;c;3;giro;repeat
+Clara;3;c;c;6;canto;repeat
+Clara;3;c;n;9;aplauso;repeat
+Clara;3;c;n;6;giro;repeat
+Clara;3;c;c;3;belly up;canto
+Clara;3;c;n;3;belly up;repeat
+Clara;3;c;c;3;canto;giro
+Clara;3;c;n;3;aplauso;repeat
+Clara;3;c;n;3;giro;repeat
+Clara;3;c;n;3;belly up;repeat
+Clara;3;c;c;3;giro;belly up
+Clara;3;c;c;3;canto;repeat
+Clara;3;c;n;6;aplauso;repeat
+Clara;4;c;c;0;giro;repeat
+Clara;4;c;c;3;aplauso;canto
+Clara;4;c;c;3;canto;repeat
+Clara;4;c;n;6;belly up;repeat
+Clara;4;c;n;3;aplauso;repeat
+Clara;4;c;c;3;giro;repeat
+Clara;4;c;c;6;canto;giro
+Clara;4;c;n;6;aplauso;repeat
+Clara;4;c;n;3;canto;repeat
+Clara;4;c;c;3;aplauso;belly up
+Clara;4;c;n;3;aplauso;repeat
+Clara;4;c;n;3;belly up;repeat
+Clara;4;c;n;3;canto;repeat
+Clara;4;c;n;3;belly up;repeat
+Clara;4;c;c;3;giro;repeat
+Clara;4;c;c;6;giro;belly up
+Clara;5;c;c;0;belly up;giro
+Clara;5;c;c;0;belly up;repeat
+Clara;5;c;c;3;giro;repeat
+Clara;5;c;n;6;aplauso;repeat
+Clara;5;c;c;3;giro;repeat
+Clara;5;c;n;6;belly up;repeat
+Clara;5;c;c;3;belly up;canto
+Clara;5;c;c;3;canto;repeat
+Clara;5;c;c;6;aplauso;repeat
+Clara;5;c;c;9;aplauso;giro
+Clara;5;c;n;9;belly up;repeat
+Clara;5;c;c;6;canto;repeat
+Clara;5;c;c;9;canto;aplauso
+Clara;5;c;c;9;canto;repeat
+Clara;5;c;c;12;giro;repeat
+Clara;5;c;c;15;aplauso;repeat
+Clara;6;c;c;0;canto;repeat
+Clara;6;c;n;3;giro;repeat
+Clara;6;c;c;3;canto;repeat
+Clara;6;c;n;6;belly up;repeat
+Clara;6;c;c;3;aplauso;aplauso
+Clara;6;c;n;3;giro;repeat
+Clara;6;c;n;3;aplauso;repeat
+Clara;6;c;c;3;canto;giro
+Clara;6;c;n;3;aplauso;repeat
+Clara;6;c;n;3;belly up;repeat
+Clara;6;c;n;3;belly up;repeat
+Clara;6;c;n;3;giro;repeat
+Clara;6;c;c;3;belly up;canto
+Clara;6;c;c;3;giro;belly up
+Clara;6;c;c;3;canto;repeat
+Clara;6;c;c;6;aplauso;repeat
+Clara;7;c;c;0;canto;repeat
+Clara;7;c;c;3;aplauso;repeat
+Clara;7;c;n;6;giro;repeat
+Clara;7;c;c;3;canto;repeat
+Clara;7;c;c;6;giro;canto
+Clara;7;c;n;6;belly up;repeat
+Clara;7;c;c;3;aplauso;repeat
+Clara;7;c;c;6;belly up;belly up
+Clara;7;c;c;6;giro;aplauso
+Clara;7;c;n;6;belly up;repeat
+Clara;7;c;n;3;giro;repeat
+Clara;7;c;c;3;canto;aplauso
+Clara;7;c;n;3;belly up;repeat
+Clara;7;c;c;3;canto;repeat
+Clara;7;c;n;6;giro;repeat
+Clara;7;c;c;3;aplauso;repeat
+Clara;8;c;c;0;belly up;giro
+Clara;8;c;c;0;aplauso;repeat
+Clara;8;c;n;3;giro;repeat
+Clara;8;c;n;3;canto;repeat
+Clara;8;c;c;3;belly up;canto
+Clara;8;c;c;3;aplauso;repeat
+Clara;8;c;n;6;canto;repeat
+Clara;8;c;n;3;belly up;repeat
+Clara;8;c;c;3;aplauso;canto
+Clara;8;c;n;3;belly up;repeat
+Clara;8;c;c;3;aplauso;repeat
+Clara;8;c;c;6;canto;repeat
+Clara;8;c;c;9;giro;aplauso
+Clara;8;c;n;9;giro;repeat
+Clara;8;c;n;6;belly up;repeat
+Clara;8;c;c;3;giro;repeat
+Clara;9;c;c;0;belly up;repeat
+Clara;9;c;c;3;canto;repeat
+Clara;9;c;c;6;aplauso;aplauso
+Clara;9;c;n;6;giro;repeat
+Clara;9;c;c;3;canto;repeat
+Clara;9;c;n;6;aplauso;repeat
+Clara;9;c;n;3;giro;repeat
+Clara;9;c;c;3;belly up;canto
+Clara;9;c;n;3;belly up;repeat
+Clara;9;c;c;3;canto;giro
+Clara;9;c;n;3;aplauso;repeat
+Clara;9;c;n;3;giro;repeat
+Clara;9;c;n;3;belly up;repeat
+Clara;9;c;c;3;giro;belly up
+Clara;9;c;c;3;canto;repeat
+Clara;9;c;n;6;aplauso;repeat
+Clara;10;c;n;0;giro;repeat
+Clara;10;c;c;0;aplauso;canto
+Clara;10;c;c;0;canto;repeat
+Clara;10;c;n;3;belly up;repeat
+Clara;10;c;n;3;aplauso;repeat
+Clara;10;c;n;3;giro;repeat
+Clara;10;c;c;3;canto;giro
+Clara;10;c;c;3;aplauso;repeat
+Clara;10;c;c;6;canto;repeat
+Clara;10;c;c;9;aplauso;belly up
+Clara;10;c;n;9;aplauso;repeat
+Clara;10;c;n;6;belly up;repeat
+Clara;10;c;c;3;canto;repeat
+Clara;10;c;n;6;belly up;repeat
+Clara;10;c;n;3;giro;repeat
+Clara;10;c;c;3;giro;belly up
+Clara;11;c;c;0;belly up;giro
+Clara;11;c;c;0;belly up;repeat
+Clara;11;c;n;3;giro;repeat
+Clara;11;c;c;3;aplauso;repeat
+Clara;11;c;n;6;giro;repeat
+Clara;11;c;n;3;belly up;repeat
+Clara;11;c;c;3;belly up;canto
+Clara;11;c;c;3;canto;repeat
+Clara;11;c;c;6;aplauso;repeat
+Clara;11;c;c;9;aplauso;giro
+Clara;11;c;n;9;belly up;repeat
+Clara;11;c;c;6;canto;repeat
+Clara;11;c;c;9;canto;aplauso
+Clara;11;c;c;9;canto;repeat
+Clara;11;c;n;12;giro;repeat
+Clara;11;c;n;9;aplauso;repeat
+Clara;12;c;n;0;canto;repeat
+Clara;12;c;n;0;giro;repeat
+Clara;12;c;c;0;canto;repeat
+Clara;12;c;n;3;belly up;repeat
+Clara;12;c;c;3;aplauso;aplauso
+Clara;12;c;n;3;giro;repeat
+Clara;12;c;c;3;aplauso;repeat
+Clara;12;c;c;6;canto;giro
+Clara;12;c;c;6;aplauso;repeat
+Clara;12;c;n;9;belly up;repeat
+Clara;12;c;n;6;belly up;repeat
+Clara;12;c;n;3;giro;repeat
+Clara;12;c;c;3;belly up;canto
+Clara;12;c;c;3;giro;belly up
+Clara;12;c;c;3;canto;repeat
+Clara;12;c;c;6;aplauso;repeat
+Ulisse;1;c;c;3;canto;repeat
+Ulisse;1;c;c;6;aplauso;repeat
+Ulisse;1;c;n;9;giro;repeat
+Ulisse;1;c;n;6;canto;repeat
+Ulisse;1;c;c;3;giro;canto
+Ulisse;1;c;n;3;belly up;repeat
+Ulisse;1;c;c;3;aplauso;repeat
+Ulisse;1;c;c;6;belly up;belly up
+Ulisse;1;c;c;6;giro;aplauso
+Ulisse;1;c;n;6;belly up;repeat
+Ulisse;1;c;n;3;giro;repeat
+Ulisse;1;c;c;3;canto;aplauso
+Ulisse;1;c;c;3;belly up;repeat
+Ulisse;1;c;c;6;canto;repeat
+Ulisse;1;c;c;9;giro;repeat
+Ulisse;1;c;n;12;aplauso;repeat
+Ulisse;2;c;c;3;belly up;giro
+Ulisse;2;c;n;3;aplauso;repeat
+Ulisse;2;c;c;3;giro;repeat
+Ulisse;2;c;n;6;canto;repeat
+Ulisse;2;c;c;3;belly up;canto
+Ulisse;2;c;n;3;aplauso;repeat
+Ulisse;2;c;c;3;canto;repeat
+Ulisse;2;c;n;6;belly up;repeat
+Ulisse;2;c;c;3;aplauso;canto
+Ulisse;2;c;n;3;belly up;repeat
+Ulisse;2;c;n;3;aplauso;repeat
+Ulisse;2;c;c;3;canto;repeat
+Ulisse;2;c;c;6;giro;aplauso
+Ulisse;2;c;n;6;giro;repeat
+Ulisse;2;c;n;3;belly up;repeat
+Ulisse;2;c;n;3;giro;repeat
+Ulisse;3;c;n;3;belly up;repeat
+Ulisse;3;c;c;3;canto;repeat
+Ulisse;3;c;c;6;aplauso;aplauso
+Ulisse;3;c;n;6;giro;repeat
+Ulisse;3;c;c;3;canto;repeat
+Ulisse;3;c;c;6;aplauso;repeat
+Ulisse;3;c;c;9;giro;repeat
+Ulisse;3;c;c;12;belly up;canto
+Ulisse;3;c;n;12;belly up;repeat
+Ulisse;3;c;c;9;canto;giro
+Ulisse;3;c;n;9;aplauso;repeat
+Ulisse;3;c;c;6;giro;repeat
+Ulisse;3;c;n;9;belly up;repeat
+Ulisse;3;c;c;6;giro;belly up
+Ulisse;3;c;n;6;canto;repeat
+Ulisse;3;c;c;3;aplauso;repeat
+Ulisse;4;c;c;3;giro;repeat
+Ulisse;4;c;c;6;aplauso;canto
+Ulisse;4;c;c;6;canto;repeat
+Ulisse;4;c;c;9;belly up;repeat
+Ulisse;4;c;c;12;aplauso;repeat
+Ulisse;4;c;c;15;giro;repeat
+Ulisse;4;c;c;18;canto;giro
+Ulisse;4;c;n;18;aplauso;repeat
+Ulisse;4;c;c;15;canto;repeat
+Ulisse;4;c;c;18;aplauso;belly up
+Ulisse;4;c;c;18;aplauso;repeat
+Ulisse;4;c;n;21;belly up;repeat
+Ulisse;4;c;n;18;canto;repeat
+Ulisse;4;c;n;15;belly up;repeat
+Ulisse;4;c;n;12;giro;repeat
+Ulisse;4;c;c;9;giro;belly up
+Ulisse;5;c;c;3;belly up;giro
+Ulisse;5;c;c;3;belly up;repeat
+Ulisse;5;c;c;6;giro;repeat
+Ulisse;5;c;n;9;aplauso;repeat
+Ulisse;5;c;n;6;giro;repeat
+Ulisse;5;n;;0;belly up;repeat
+Ulisse;5;n;;0;belly up;canto
+Ulisse;5;c;c;3;canto;repeat
+Ulisse;5;c;c;6;aplauso;repeat
+Ulisse;5;c;c;9;aplauso;giro
+Ulisse;5;c;n;9;belly up;repeat
+Ulisse;5;c;n;6;canto;repeat
+Ulisse;5;c;c;3;canto;aplauso
+Ulisse;5;c;c;3;canto;repeat
+Ulisse;5;c;c;6;giro;repeat
+Ulisse;5;c;c;9;aplauso;repeat
+Ulisse;6;c;c;3;canto;repeat
+Ulisse;6;c;c;6;giro;repeat
+Ulisse;6;c;c;9;canto;repeat
+Ulisse;6;c;n;12;belly up;repeat
+Ulisse;6;c;c;9;aplauso;aplauso
+Ulisse;6;c;c;9;giro;repeat
+Ulisse;6;c;c;12;aplauso;repeat
+Ulisse;6;c;c;15;canto;giro
+Ulisse;6;c;c;15;aplauso;repeat
+Ulisse;6;c;n;18;belly up;repeat
+Ulisse;6;c;n;15;belly up;repeat
+Ulisse;6;c;c;12;giro;repeat
+Ulisse;6;c;c;15;belly up;canto
+Ulisse;6;c;c;15;giro;belly up
+Ulisse;6;c;c;15;canto;repeat
+Ulisse;6;c;c;18;aplauso;repeat
+Ulisse;7;c;c;3;canto;repeat
+Ulisse;7;c;c;6;aplauso;repeat
+Ulisse;7;c;n;9;giro;repeat
+Ulisse;7;c;c;6;canto;repeat
+Ulisse;7;c;c;9;giro;canto
+Ulisse;7;c;c;9;belly up;repeat
+Ulisse;7;c;n;12;aplauso;repeat
+Ulisse;7;c;c;9;belly up;belly up
+Ulisse;7;c;c;9;giro;aplauso
+Ulisse;7;c;c;9;belly up;repeat
+Ulisse;7;c;c;12;giro;repeat
+Ulisse;7;c;c;15;canto;aplauso
+Ulisse;7;c;c;15;belly up;repeat
+Ulisse;7;c;n;18;canto;repeat
+Ulisse;7;c;n;15;giro;repeat
+Ulisse;7;c;n;12;aplauso;repeat
+Ulisse;8;c;c;3;belly up;giro
+Ulisse;8;c;c;3;aplauso;repeat
+Ulisse;8;c;n;6;giro;repeat
+Ulisse;8;c;c;3;canto;repeat
+Ulisse;8;c;c;6;belly up;canto
+Ulisse;8;c;c;6;aplauso;repeat
+Ulisse;8;c;c;9;canto;repeat
+Ulisse;8;c;c;12;belly up;repeat
+Ulisse;8;c;c;15;aplauso;canto
+Ulisse;8;c;n;15;belly up;repeat
+Ulisse;8;c;n;12;aplauso;repeat
+Ulisse;8;c;c;9;canto;repeat
+Ulisse;8;c;c;12;giro;aplauso
+Ulisse;8;c;n;12;giro;repeat
+Ulisse;8;c;n;9;belly up;repeat
+Ulisse;8;c;n;6;giro;repeat
+Ulisse;9;c;c;3;belly up;repeat
+Ulisse;9;c;n;6;canto;repeat
+Ulisse;9;c;c;3;aplauso;aplauso
+Ulisse;9;c;n;3;giro;repeat
+Ulisse;9;c;c;3;canto;repeat
+Ulisse;9;c;c;6;aplauso;repeat
+Ulisse;9;c;n;9;giro;repeat
+Ulisse;9;c;c;6;belly up;canto
+Ulisse;9;c;n;6;belly up;repeat
+Ulisse;9;c;c;3;canto;giro
+Ulisse;9;c;c;3;aplauso;repeat
+Ulisse;9;c;n;6;giro;repeat
+Ulisse;9;c;n;3;belly up;repeat
+Ulisse;9;c;c;3;giro;belly up
+Ulisse;9;c;n;3;canto;repeat
+Ulisse;9;c;c;3;aplauso;repeat
+Ulisse;10;c;c;3;giro;repeat
+Ulisse;10;c;c;6;aplauso;canto
+Ulisse;10;c;n;6;canto;repeat
+Ulisse;10;c;n;3;belly up;repeat
+Ulisse;10;n;;0;aplauso;repeat
+Ulisse;10;c;c;3;giro;repeat
+Ulisse;10;c;c;6;canto;giro
+Ulisse;10;c;n;6;aplauso;repeat
+Ulisse;10;c;c;3;canto;repeat
+Ulisse;10;c;c;6;aplauso;belly up
+Ulisse;10;c;n;6;aplauso;repeat
+Ulisse;10;c;n;3;belly up;repeat
+Ulisse;10;c;c;3;canto;repeat
+Ulisse;10;c;c;6;belly up;repeat
+Ulisse;10;c;c;9;giro;repeat
+Ulisse;10;c;c;12;giro;belly up
+Ulisse;11;c;c;3;belly up;giro
+Ulisse;11;c;c;3;belly up;repeat
+Ulisse;11;c;c;6;giro;repeat
+Ulisse;11;c;c;9;aplauso;repeat
+Ulisse;11;c;c;12;giro;repeat
+Ulisse;11;c;n;15;belly up;repeat
+Ulisse;11;c;c;12;belly up;canto
+Ulisse;11;c;n;12;canto;repeat
+Ulisse;11;c;n;9;aplauso;repeat
+Ulisse;11;c;c;6;aplauso;giro
+Ulisse;11;c;n;6;belly up;repeat
+Ulisse;11;c;c;3;canto;repeat
+Ulisse;11;c;c;6;canto;aplauso
+Ulisse;11;c;c;6;canto;repeat
+Ulisse;11;c;c;9;giro;repeat
+Ulisse;11;c;c;12;aplauso;repeat
+Ulisse;12;c;c;3;canto;repeat
+Ulisse;12;c;c;6;giro;repeat
+Ulisse;12;c;c;9;canto;repeat
+Ulisse;12;c;n;12;belly up;repeat
+Ulisse;12;c;c;9;aplauso;aplauso
+Ulisse;12;c;c;9;giro;repeat
+Ulisse;12;c;c;12;aplauso;repeat
+Ulisse;12;c;c;15;canto;giro
+Ulisse;12;c;c;15;aplauso;repeat
+Ulisse;12;c;n;18;belly up;repeat
+Ulisse;12;c;n;15;belly up;repeat
+Ulisse;12;c;c;12;giro;repeat
+Ulisse;12;c;c;15;belly up;canto
+Ulisse;12;c;c;15;giro;belly up
+Ulisse;12;c;n;15;canto;repeat
+Ulisse;12;c;n;12;aplauso;repeat
+Achille;1;c;c;3;canto;repeat
+Achille;1;c;n;6;aplauso;repeat
+Achille;1;c;n;3;giro;repeat
+Achille;1;c;c;3;canto;repeat
+Achille;1;c;c;6;giro;canto
+Achille;1;c;n;6;belly up;repeat
+Achille;1;c;n;3;aplauso;repeat
+Achille;1;c;c;3;belly up;belly up
+Achille;1;c;c;3;giro;aplauso
+Achille;1;c;n;3;belly up;repeat
+Achille;1;c;c;3;giro;repeat
+Achille;1;c;c;6;canto;aplauso
+Achille;1;c;n;6;belly up;repeat
+Achille;1;c;n;3;canto;repeat
+Achille;1;c;c;3;giro;repeat
+Achille;1;c;n;6;aplauso;repeat
+Achille;2;c;c;3;belly up;giro
+Achille;2;c;n;3;aplauso;repeat
+Achille;2;c;c;3;giro;repeat
+Achille;2;c;n;6;canto;repeat
+Achille;2;c;c;3;belly up;canto
+Achille;2;c;n;3;aplauso;repeat
+Achille;2;c;n;3;canto;repeat
+Achille;2;c;n;3;belly up;repeat
+Achille;2;c;c;3;aplauso;canto
+Achille;2;c;c;3;belly up;repeat
+Achille;2;c;n;6;aplauso;repeat
+Achille;2;c;n;3;canto;repeat
+Achille;2;c;c;3;giro;aplauso
+Achille;2;c;c;3;giro;repeat
+Achille;2;c;n;6;belly up;repeat
+Achille;2;c;c;3;giro;repeat
+Achille;3;c;c;3;belly up;repeat
+Achille;3;c;c;6;canto;repeat
+Achille;3;c;c;9;aplauso;aplauso
+Achille;3;c;n;9;giro;repeat
+Achille;3;c;c;6;canto;repeat
+Achille;3;c;n;9;aplauso;repeat
+Achille;3;c;n;6;giro;repeat
+Achille;3;c;c;3;belly up;canto
+Achille;3;c;n;3;belly up;repeat
+Achille;3;c;c;3;canto;giro
+Achille;3;c;n;3;aplauso;repeat
+Achille;3;c;c;3;giro;repeat
+Achille;3;c;c;6;belly up;repeat
+Achille;3;c;c;9;giro;belly up
+Achille;3;c;c;9;canto;repeat
+Achille;3;c;n;12;aplauso;repeat
+Achille;4;c;c;3;giro;repeat
+Achille;4;c;c;6;aplauso;canto
+Achille;4;c;n;6;canto;repeat
+Achille;4;c;n;3;belly up;repeat
+Achille;4;c;n;3;aplauso;repeat
+Achille;4;c;c;3;giro;repeat
+Achille;4;c;c;6;canto;giro
+Achille;4;c;n;6;aplauso;repeat
+Achille;4;c;n;3;canto;repeat
+Achille;4;c;c;3;aplauso;belly up
+Achille;4;c;n;3;aplauso;repeat
+Achille;4;c;n;3;belly up;repeat
+Achille;4;c;n;3;canto;repeat
+Achille;4;c;n;3;belly up;repeat
+Achille;4;c;c;3;giro;repeat
+Achille;4;c;c;6;giro;belly up
+Achille;5;c;c;3;belly up;giro
+Achille;5;c;c;3;belly up;repeat
+Achille;5;c;c;6;giro;repeat
+Achille;5;c;c;9;aplauso;repeat
+Achille;5;c;n;12;giro;repeat
+Achille;5;c;c;9;belly up;repeat
+Achille;5;c;c;6;belly up;canto
+Achille;5;c;n;6;canto;repeat
+Achille;5;c;c;3;aplauso;repeat
+Achille;5;c;c;6;aplauso;giro
+Achille;5;c;c;6;belly up;repeat
+Achille;5;c;n;9;canto;repeat
+Achille;5;c;c;6;canto;aplauso
+Achille;5;c;n;6;canto;repeat
+Achille;5;c;n;3;giro;repeat
+Achille;5;c;c;3;aplauso;repeat
+Achille;6;c;c;3;canto;repeat
+Achille;6;c;n;6;giro;repeat
+Achille;6;c;c;3;canto;repeat
+Achille;6;c;c;6;belly up;repeat
+Achille;6;c;c;9;aplauso;aplauso
+Achille;6;c;c;9;giro;repeat
+Achille;6;c;c;12;aplauso;repeat
+Achille;6;c;c;15;canto;giro
+Achille;6;c;c;15;aplauso;repeat
+Achille;6;c;n;18;belly up;repeat
+Achille;6;c;n;15;belly up;repeat
+Achille;6;c;n;12;giro;repeat
+Achille;6;c;c;9;belly up;canto
+Achille;6;c;c;9;giro;belly up
+Achille;6;c;n;9;canto;repeat
+Achille;6;c;n;6;aplauso;repeat
+Achille;7;c;n;3;canto;repeat
+Achille;7;c;c;3;aplauso;repeat
+Achille;7;c;n;6;giro;repeat
+Achille;7;c;n;3;canto;repeat
+Achille;7;c;c;3;giro;canto
+Achille;7;c;c;3;belly up;repeat
+Achille;7;c;c;6;aplauso;repeat
+Achille;7;c;c;9;belly up;belly up
+Achille;7;c;c;9;giro;aplauso
+Achille;7;c;c;9;belly up;repeat
+Achille;7;c;n;12;giro;repeat
+Achille;7;c;c;9;canto;aplauso
+Achille;7;c;c;9;belly up;repeat
+Achille;7;c;n;12;canto;repeat
+Achille;7;c;n;9;giro;repeat
+Achille;7;c;n;6;aplauso;repeat
+Achille;8;c;c;3;belly up;giro
+Achille;8;c;c;3;aplauso;repeat
+Achille;8;c;n;6;giro;repeat
+Achille;8;c;n;3;canto;repeat
+Achille;8;c;c;3;belly up;canto
+Achille;8;c;c;3;aplauso;repeat
+Achille;8;c;n;6;canto;repeat
+Achille;8;c;n;3;belly up;repeat
+Achille;8;c;c;3;aplauso;canto
+Achille;8;c;n;3;belly up;repeat
+Achille;8;c;c;3;aplauso;repeat
+Achille;8;c;n;6;canto;repeat
+Achille;8;c;c;3;giro;aplauso
+Achille;8;c;n;3;giro;repeat
+Achille;8;c;n;3;belly up;repeat
+Achille;8;c;n;3;giro;repeat
+Achille;9;c;c;3;belly up;repeat
+Achille;9;c;n;6;canto;repeat
+Achille;9;c;c;3;aplauso;aplauso
+Achille;9;c;c;3;giro;repeat
+Achille;9;c;n;6;canto;repeat
+Achille;9;c;c;3;aplauso;repeat
+Achille;9;c;c;6;giro;repeat
+Achille;9;c;c;9;belly up;canto
+Achille;9;c;n;9;belly up;repeat
+Achille;9;c;c;6;canto;giro
+Achille;9;c;n;6;aplauso;repeat
+Achille;9;c;c;3;giro;repeat
+Achille;9;c;n;6;belly up;repeat
+Achille;9;c;c;3;giro;belly up
+Achille;9;c;n;3;canto;repeat
+Achille;9;c;n;3;aplauso;repeat
+Achille;10;c;c;3;giro;repeat
+Achille;10;c;c;6;aplauso;canto
+Achille;10;c;n;6;canto;repeat
+Achille;10;c;n;3;belly up;repeat
+Achille;10;c;n;3;aplauso;repeat
+Achille;10;c;c;3;giro;repeat
+Achille;10;c;c;6;canto;giro
+Achille;10;c;n;6;aplauso;repeat
+Achille;10;c;n;3;canto;repeat
+Achille;10;c;c;3;aplauso;belly up
+Achille;10;c;c;3;aplauso;repeat
+Achille;10;c;n;6;belly up;repeat
+Achille;10;c;c;3;canto;repeat
+Achille;10;c;n;6;belly up;repeat
+Achille;10;c;c;3;giro;repeat
+Achille;10;c;c;6;giro;belly up
+Achille;11;c;c;3;belly up;giro
+Achille;11;c;c;3;belly up;repeat
+Achille;11;c;c;6;giro;repeat
+Achille;11;c;c;9;aplauso;repeat
+Achille;11;c;n;12;giro;repeat
+Achille;11;c;n;9;belly up;repeat
+Achille;11;c;c;6;belly up;canto
+Achille;11;c;n;6;canto;repeat
+Achille;11;c;c;3;aplauso;repeat
+Achille;11;c;c;6;aplauso;giro
+Achille;11;c;n;6;belly up;repeat
+Achille;11;c;n;3;canto;repeat
+Achille;11;c;c;3;canto;aplauso
+Achille;11;c;n;3;canto;repeat
+Achille;11;c;n;3;giro;repeat
+Achille;11;c;c;3;aplauso;repeat
+Achille;12;c;n;3;canto;repeat
+Achille;12;c;c;3;giro;repeat
+Achille;12;c;n;6;canto;repeat
+Achille;12;c;n;3;belly up;repeat
+Achille;12;c;c;3;aplauso;aplauso
+Achille;12;c;c;3;giro;repeat
+Achille;12;c;n;6;aplauso;repeat
+Achille;12;c;c;3;canto;giro
+Achille;12;c;n;3;aplauso;repeat
+Achille;12;c;n;3;belly up;repeat
+Achille;12;c;n;3;belly up;repeat
+Achille;12;c;c;3;giro;repeat
+Achille;12;c;c;6;belly up;canto
+Achille;12;c;c;6;giro;belly up
+Achille;12;c;n;6;canto;repeat
+Achille;12;c;c;3;aplauso;repeat

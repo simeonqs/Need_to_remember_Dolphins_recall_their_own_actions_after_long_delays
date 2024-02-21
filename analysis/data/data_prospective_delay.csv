@@ -1,0 +1,680 @@
+Animal,Phase,Trial,Behaviour marked,Date,Time marking,Time recall,Total time,Behaviour offered,Double blind,Distractions,Trainer mark,Trainer recall
+Eva,0,1,Sing,,,,0,Sing,0,0,,
+Eva,0,2,Splash,,,,0,fart,0,0,,
+Eva,0,3,Spin,,,,0,Spin,0,0,,
+Eva,0,4,Sing,,,,0,Sing,0,0,,
+Eva,0,5,Tail wave,,,,0,Tail wave,0,0,,
+Eva,0,6,Sing,,,,0,Sing,0,0,,
+Eva,0,7,Jump,,,,0,Jump,0,0,,
+Eva,0,8,Clap,,,,0,Clap,0,0,,
+Eva,0,9,Jump,,,,0,Jump,0,0,,
+Eva,0,10,Splash,,,,0,Splash,0,0,,
+Eva,0,11,Clap,,,,0,Clap,0,0,,
+Eva,0,12,Tail wave,,,,0,Tail wave,0,0,,
+Eva,0,13,Clap,,,,0,Clap,0,0,,
+Eva,0,14,Spin,,,,0,Spin,0,0,,
+Eva,0,15,Jump,,,,0,Jump,0,0,,
+Eva,0,16,Tail wave,,,,0,Tail wave,0,0,,
+Eva,0,17,Spin,,,,0,Spin,0,0,,
+Eva,0,18,Splash,,,,0,Splash,0,0,,
+Karina,0,1,Jump,,,,0,Jump,0,0,,
+Karina,0,2,Tail wave,,,,0,Tail wave,0,0,,
+Karina,0,3,Sing,,,,0,Sing,0,0,,
+Karina,0,4,Splash,,,,0,Splash,0,0,,
+Karina,0,5,Tail wave,,,,0,Tail wave,0,0,,
+Karina,0,6,Splash,,,,0,Splash,0,0,,
+Karina,0,7,Jump,,,,0,Jump,0,0,,
+Karina,0,8,Spin,,,,0,Go down,0,0,,
+Karina,0,9,Jump,,,,0,Jump,0,0,,
+Karina,0,10,Splash,,,,0,Splash,0,0,,
+Karina,0,11,Spin,,,,0,Spin,0,0,,
+Karina,0,12,Clap,,,,0,Clap,0,0,,
+Karina,0,13,Spin,,,,0,Spin,0,0,,
+Karina,0,14,Sing,,,,0,Sing,0,0,,
+Karina,0,15,Clap,,,,0,Clap,0,0,,
+Karina,0,16,Sing,,,,0,Sing ,0,0,,
+Karina,0,17,Clap,,,,0,Clap,0,0,,
+Karina,0,18,Tail wave,,,,0,Tail wave,0,0,,
+Lluvia,0,1,Splash,,,,0,Splash,0,0,,
+Lluvia,0,2,Tail wave,,,,0,Tail wave,0,0,,
+Lluvia,0,3,Tail wave,,,,0,Tail wave,0,0,,
+Lluvia,0,4,Sing,,,,0,Sing ,0,0,,
+Lluvia,0,5,Spin,,,,0,Spin,0,0,,
+Lluvia,0,6,Clap,,,,0,Clap,0,0,,
+Lluvia,0,7,Splash,,,,0,Splash,0,0,,
+Lluvia,0,8,Tail wave,,,,0,Tail wave,0,0,,
+Lluvia,0,9,Jump,,,,0,Jump,0,0,,
+Lluvia,0,10,Clap,,,,0,Clap,0,0,,
+Lluvia,0,11,Splash,,,,0,Splash,0,0,,
+Lluvia,0,12,Spin,,,,0,Spin,0,0,,
+Lluvia,0,13,Jump,,,,0,Jump,0,0,,
+Lluvia,0,14,Clap,,,,0,Clap,0,0,,
+Lluvia,0,15,Sing,,,,0,Sing,0,0,,
+Lluvia,0,16,Spin,,,,0,Spin,0,0,,
+Lluvia,0,17,Jump,,,,0,Jump,0,0,,
+Lluvia,0,18,Sing,,,,0,Sing ,0,0,,
+Nouba,0,1,Spin,,,,0,Spin,0,0,,
+Nouba,0,2,Splash,,,,0,Splash,0,0,,
+Nouba,0,3,Clap,,,,0,Clap,0,0,,
+Nouba,0,4,Sing,,,,0,Sing ,0,0,,
+Nouba,0,5,Tail wave,,,,0,Tail wave,0,0,,
+Nouba,0,6,Jump,,,,0,Jump,0,0,,
+Nouba,0,7,Tail wave,,,,0,Tail wave,0,0,,
+Nouba,0,8,Jump,,,,0,Jump,0,0,,
+Nouba,0,9,Splash,,,,0,Splash,0,0,,
+Nouba,0,10,Spin,,,,0,Spin,0,0,,
+Nouba,0,11,Sing,,,,0,Sing,0,0,,
+Nouba,0,12,Tail wave,,,,0,Tail wave,0,0,,
+Nouba,0,13,Sing,,,,0,Sing ,0,0,,
+Nouba,0,14,Clap,,,,0,Clap,0,0,,
+Nouba,0,15,Spin,,,,0,Spin,0,0,,
+Nouba,0,16,Jump,,,,0,Jump,0,0,,
+Nouba,0,17,Splash,,,,0,Splash,0,0,,
+Nouba,0,18,Clap,,,,0,Clap,0,0,,
+Nemo,0,1,Clap,,,,0,Clap,0,0,,
+Nemo,0,2,Splash,,,,0,Splash,0,0,,
+Nemo,0,3,Spin,,,,0,Spin,0,0,,
+Nemo,0,4,Clap,,,,0,Clap,0,0,,
+Nemo,0,5,Splash,,,,0,Splash,0,0,,
+Nemo,0,6,Jump,,,,0,Jump,0,0,,
+Nemo,0,7,Clap,,,,0,Clap,0,0,,
+Nemo,0,8,Spin,,,,0,Spin,0,0,,
+Nemo,0,9,Jump,,,,0,Jump,0,0,,
+Nemo,0,10,Sing,,,,0,Sing,0,0,,
+Nemo,0,11,Tail wave,,,,0,Tail wave,0,0,,
+Nemo,0,12,Sing,,,,0,Sing,0,0,,
+Nemo,0,13,Splash,,,,0,Splash,0,0,,
+Nemo,0,14,Tail wave,,,,0,Tail wave,0,0,,
+Nemo,0,15,Jump,,,,0,Jump,0,0,,
+Nemo,0,16,Tail wave,,,,0,Tail wave,0,0,,
+Nemo,0,17,Spin,,,,0,Tail wave,0,0,,
+Nemo,0,18,Sing,,,,0,Sing ,0,0,,
+Eva,1,1,Tail wave,06/22/2020,11:39,11:44,15,Tail wave,0,0,Gris,Gris
+Eva,1,2,Splash,06/22/2020,10:15,10:31,16,Sing,1,0,Gris,Andrea
+Eva,1,3,Spin,06/22/2020,13:30,13:48,18,Tail wave,0,0,Gris,Gris
+Eva,1,4,Clap,06/23/2020,09:35,09:53,18,Clap,1,0,Gris,Benja
+Eva,1,5,Splash,06/23/2020,11:30,11:45,15,Spin,0,0,Gris,Gris
+Eva,1,6,Jump,06/23/2020,15:39,15:54,15,Splash,1,0,Andrea,Gris
+Eva,1,7,Clap,06/24/2020,11:23,11:40,17,Clap,1,0,Gris,Andrea
+Eva,1,8,Spin,06/24/2020,13:53,14:10,17,Clap,1,0,Gris,Andrea
+Eva,1,9,Jump,06/25/2020,12:03,12:18,15,Jump,0,0,Gris,Gris
+Eva,1,10,Sing,06/25/2020,14:14,14:32,18,Sing,0,0,Andrea,Andrea
+Eva,1,11,Tail wave,26/06/2020,10:05,10:21,16,Tail wave,1,1,Andrea,Abby
+Eva,1,12,Sing,26/06/2020,15:17,15:32,15,Jump,1,0,Andrea,Jenny
+Eva,1,13,Splash,27/06/2020,11:05,11:20,15,Sing,1,0,Gris,Andrea
+Eva,1,14,Clap,27/06/2020,13:39,13:55,16,Clap,1,0,Gris,Andrea
+Eva,1,15,Jump,06/29/2020,11:12,11:28,16,Jump,1,0,Gris,Andrea
+Eva,1,16,Tail wave,06/29/2020,13:44,13:59,15,Tail wave,1,0,Gris,Andrea
+Eva,1,17,Spin,06/30/2020,11:18,11:36,18,Clap,1,0,Gris,Andrea
+Eva,1,18,Sing,06/30/2020,13:50,14:05,15,Sing,1,0,Gris,Andrea
+Karina,1,1,Go down,22/06/2020,11:08,11:23,15,Go down,0,0,Andrea,Andrea
+Karina,1,2,Tail wave,06/22/2020,11:34,11:48,14,Tail wave,0,0,Andrea,Andrea
+Karina,1,3,Tail wave,06/22/2020,14:51,15:20,29,Tail wave,1,0,Abby,Rafa
+Karina,1,4,Sing,06/23/2020,09:40,09:57,17,Go down,1,0,Emma,Andrea
+Karina,1,5,Spin,06/23/2020,13:47,14:02,15,Spin,0,0,Andrea,Andrea
+Karina,1,6,Clap,06/24/2020,11:23,11:40,17,Spin,1,0,Abby,Rafa
+Karina,1,7,Go down,06/25/2020,11:48,12:06,18,Clap,1,0,Rafa,Andrea
+Karina,1,8,Tail wave,06/25/2020,14:06,14:21,15,Go down,1,0,Rafa,Gris
+Karina,1,9,Jump,06/26/2020,11:25,11:45,20,Jump,1,0,Abby,Emma
+Karina,1,10,Clap,06/26/2020,13:37,13:53,16,Tail wave,0,0,Abby,Abby
+Karina,1,11,Tail wave,06/30/2020,13:50,14:10,20,Jump,1,0,Rafa,Emma
+Karina,1,12,Spin,06/27/2020,13:39,13:55,16,Tail wave,1,0,Abby,Emma
+Karina,1,13,Jump,06/29/2020,11:12,11:28,16,Jump,0,0,Abby,Abby
+Karina,1,14,Clap,06/29/2020,13:44,13:59,15,Jump,1,0,Abby,Gris
+Karina,1,15,Sing,06/30/2020,11:17,11:32,15,Tail wave,0,0,Rafa,Rafa
+Karina,1,16,Spin,07/01/2020,11:25,11:50,25,Spin,1,0,Rafa,Abby
+Karina,1,17,Jump,07/01/2020,14:17,14:45,28,Clap,1,0,Abby,Andrea
+Karina,1,18,Sing,07/02/2020,11:13,11:28,15,Sing,1,0,Andrea,Abby
+Lluvia,1,1,Sing,22/06/2020,13:30,13:49,19,Sing,0,0,Rafa,Rafa
+Lluvia,1,2,Splash,06/22/2020,14:51,15:20,29,Sing,1,0,Rafa,Andrea
+Lluvia,1,3,Spin,06/23/2020,11:15,11:30,15,Spin,0,0,Nayeli,Nayeli
+Lluvia,1,4,Jump,06/23/2020,13:54,14:09,15,Jump,1,0,Nayeli,Andrea
+Lluvia,1,5,Sing,06/24/2020,09:37,09:52,15,Clap,1,0,Nayeli,Andrea
+Lluvia,1,6,Sing,06/24/2020,11:23,11:38,15,Splash,1,0,Nayeli,Andrea
+Lluvia,1,7,Tail wave,06/24/2020,13:53,14:09,16,Clap,1,0,Nayeli,Andrea
+Lluvia,1,8,Clap,06/25/2020,11:48,12:05,17,Clap,1,0,Nayeli,Andrea
+Lluvia,1,9,Jump,06/25/2020,14:06,14:21,15,Spin,1,0,Nayeli,Andrea
+Lluvia,1,10,Splash,06/26/2020,11:25,11:45,20,Spin,1,0,Nayeli,Andrea
+Lluvia,1,11,Clap,06/26/2020,15:20,15:35,15,Clap,0,0,Nayeli,Nayeli
+Lluvia,1,12,Tail wave,06/27/2020,11:09,11:33,24,Spin,0,0,Andrea,Andrea
+Lluvia,1,13,Clap,06/27/2020,13:39,13:55,16,Clap,1,0,Carlos,Jenny
+Lluvia,1,14,Spin,06/29/2020,11:12,11:28,16,Tail wave,1,0,Nayeli,Andrea
+Lluvia,1,15,Jump,06/29/2020,13:44,13:59,15,Splash,0,0,Nayeli,Nayeli
+Lluvia,1,16,Tail wave,06/30/2020,11:19,11:33,14,Tail wave,0,0,Jenny,Jenny
+Lluvia,1,17,Spin,06/30/2020,13:50,14:10,20,Splash,1,0,Andrea,Jenny
+Lluvia,1,18,Splash,07/01/2020,11:25,11:50,25,Splash,0,0,Nayeli,Nayeli
+Nouba,1,1,Jump,06/22/2020,13:46,14:01,15,Jump,1,0,Benja,Andrea
+Nouba,1,2,Tail wave,06/22/2020,15:30,15:45,15,Tail wave,1,0,Andrea,Abril
+Nouba,1,3,Sing,06/23/2020,09:35,09:53,18,Jump,1,0,Benja,Andrea
+Nouba,1,4,Splash,06/23/2020,11:43,11:58,15,Sing,1,0,Benja,Abril
+Nouba,1,5,Tail wave,06/23/2020,13:31,13:51,20,Clap,1,0,Benja,Andrea
+Nouba,1,6,Splash,06/24/2020,10:11,10:26,15,Splash,0,0,Andrea,Andrea
+Nouba,1,7,Spin,06/24/2020,11:47,12:02,15,Clap,0,0,Carlos,Carlos
+Nouba,1,8,Jump,06/24/2020,14:07,14:22,15,Clap,1,0,Carlos,Andrea
+Nouba,1,9,Spin,06/25/2020,12:03,12:18,15,Clap,0,0,Andrea,Andrea
+Nouba,1,10,Splash,06/25/2020,16:14,16:29,15,Jump,0,0,Andrea,Andrea
+Nouba,1,11,Jump  ,06/26/2020,10:21,10:36,15,Jump,0,0,Andrea,Andrea
+Nouba,1,12,Clap,06/26/2020,13:52,14:10,18,Clap,1,0,Andrea,Nayeli
+Nouba,1,13,Spin,06/27/2020,11:32,11:47,15,Spin,1,0,Andrea,Abril
+Nouba,1,14,Sing,06/27/2020,13:56,14:11,15,Sing,0,0,Gris,Gris
+Nouba,1,15,Clap,06/29/2020,11:26,11:43,17,Clap,0,0,Benja,Benja
+Nouba,1,16,Sing,06/29/2020,13:56,14:11,15,Clap,1,0,Benja,Andrea
+Nouba,1,17,Clap,06/30/2020,11:17,11:32,15,Spin,1,0,Andrea,Gris
+Nouba,1,18,Tail wave,06/30/2020,15:33,15:48,15,Sing,1,0,Andrea,Benja
+Nemo,1,1,Spin,06/22/2020,13:30,13:56,26,Spin,1,0,Benja,Andrea
+Nemo,1,2,Splash,06/23/2020,09:40,09:57,17,Spin,1,0,Andrea,Jhony
+Nemo,1,3,Clap,06/23/2020,11:15,11:30,15,Clap,1,0,Benja,Andrea
+Nemo,1,4,Sing,06/23/2020,14:15,14:40,25,Spin,1,0,Benja,Andrea
+Nemo,1,5,Tail wave,06/24/2020,09:48,10:09,21,Spin,0,0,Andrea,Andrea
+Nemo,1,6,Jump,06/24/2020,13:59,14:13,14,Spin,1,0,Tania,Andrea
+Nemo,1,7,Tail wave,06/25/2020,14:06,14:21,15,Tail wave,1,0,Andrea,Jorge
+Nemo,1,8,Jump,06/25/2020,15:48,16:03,15,Jump,0,0,Andrea,Andrea
+Nemo,1,9,Splash,06/26/2020,11:28,11:41,13,Splash,0,0,Andrea,Andrea
+Nemo,1,10,Spin,06/26/2020,13:40,13:57,17,Jump,1,0,Andrea,Jorge
+Nemo,1,11,Sing,27/06/2020,13:35,13:50,15,Splash,0,0,Tania,Tania
+Nemo,1,12,Tail wave,29/06/2020,11:12,11:28,16,Splash,1,0,Benja,Tania
+Nemo,1,13,Sing,29/06/2020,13:36,13:51,15,Sing,1,0,Benja,Andrea
+Nemo,1,14,Clap,30/06/2020,11:20,11:39,15,Clap,0,0,Benja,Benja
+Nemo,1,15,Spin,06/30/2020,13:50,14:10,20,Spin,1,0,Benja,Andrea
+Nemo,1,16,Jump,07/01/2020,11:25,11:50,25,Tail wave,0,0,Andrea,Andrea
+Nemo,1,17,Splash,07/02/2020,09:38,09:55,17,Splash,1,0,Benja,Andrea
+Nemo,1,18,Clap,07/02/2020,11:29,11:44,15,Clap,1,0,Benja,Andrea
+Nemo,2,1,Clap,07/02/2020,13:27,13:42,15,Sing,0,41,Andrea,Andrea
+Nemo,2,2,Splash,07/02/2020,15:41,15:56,15,Clap,1,41,Benja,Andrea
+Nemo,2,3,Spin,07/03/2020,11:03,11:18,15,Spin,0,41,Benja,Benja
+Nemo,2,4,Clap,07/03/2020,13:42,13:57,15,Clap,1,41,Benja,Jorge
+Nemo,2,5,Splash,07/03/2020,15:25,15:40,15,Clap,0,41,Benja,Benja
+Nemo,2,6,Jump,07/04/2020,11:37,11:52,15,Jump,1,41,Benja,Andrea
+Nemo,2,7,Clap,07/06/2020,11:31,11:46,15,Clap,1,41,Benja,Andrea
+Nemo,2,8,Spin,07/07/2020,13:48,14:03,15,Spin,1,41,Andrea,Jorge
+Nemo,2,9,Jump,07/08/2020,14:50,15:05,15,Jump,0,41,Andrea,Andrea
+Nemo,2,10,Sing,07/08/2020,10:08,10:23,15,Sing,0,41,Andrea,Andrea
+Nemo,2,11,Tail wave,09/07/2020,11:52,12:09,17,Spin,1,46,Andrea,Jorge
+Nemo,2,12,Sing,09/07/2020,14:06,14:21,15,Sing,1,41,Andrea,Rafa
+Nemo,2,13,Splash,10/07/2020,11:12,11:27,15,Sing,1,41,Benja,Andrea
+Nemo,2,14,Tail wave,10/07/2020,13:09,13:24,15,Clap,0,41,Benja,Benja
+Nemo,2,15,Jump,07/11/2020,11:05,11:20,15,Jump,0,41,Benja,Benja
+Nemo,2,16,Tail wave,07/11/2020,03:15,03:30,15,Tail wave,1,41,Benja,Jorge
+Nemo,2,17,Spin,07/12/2020,12:20,12:35,15,Spin,1,41,Benja,Jorge
+Nemo,2,18,Sing,07/12/2020,14:00,14:15,15,Sing,1,41,Benja,Jorge
+Nouba,2,1,Spin,07/01/2020,11:30,11:45,15,Spin,0,41,Andrea,Andrea
+Nouba,2,2,Splash,07/01/2020,13:35,13:50,15,Sing,1,41,Andrea,Abril
+Nouba,2,3,Clap,07/02/2020,11:42,11:57,15,Clap,1,41,Benja,Andrea
+Nouba,2,4,Sing,07/03/2020,09:45,10:00,15,Clap,1,41,Benja,Andrea
+Nouba,2,5,Tail wave,07/03/2020,11:38,11:53,15,Tail wave,0,41,Benja,Benja
+Nouba,2,6,Jump,07/03/2020,14:17,14:32,15,Tail wave,1,41,Benja,Andrea
+Nouba,2,7,Tail wave,07/04/2020,14:34,14:49,15,Tail wave,1,41,Benja,Andrea
+Nouba,2,8,Jump,07/06/2020,13:32,13:47,15,Jump,1,41,Benja,Andrea
+Nouba,2,9,Splash,07/07/2020,14:25,14:41,16,Clap,0,44,Andrea,Andrea
+Nouba,2,10,Spin,07/08/2020,11:40,11:55,15,Spin,1,41,Andrea,Abril
+Nouba,2,11,Sing,08/07/2020,14:26,14:41,15,Sing,0,41,Andrea,Andrea
+Nouba,2,12,Tail wave,09/07/2020,13:14,13:29,15,Clap,1,41,Andrea,Richie
+Nouba,2,13,Sing,10/07/2020,11:53,12:08,15,Tail wave,1,41,Benja,Andrea
+Nouba,2,14,Clap,10/07/2020,14:22,14:48,15,Clap,0,41,Benja,Benja
+Nouba,2,15,Spin,07/13/2020,15:49,16:04,15,Spin,1,41,Andrea,Gris
+Nouba,2,16,clap,07/15/2020,11:05,11:20,15,Clap,0,41,Abril,Abril
+Nouba,2,17,Splash,07/13/2020,11:02,11:17,15,Spin,1,41,Andrea,Nayeli
+Nouba,2,18,Clap,07/13/2020,13:26,13:41,15,Clap,1,41,Andrea,Gris
+Karina,2,1,Jump,07/02/2020,13:28,13:43,15,Jump,1,41,Gris,Andrea
+Karina,2,2,Tail wave,07/02/2020,15:41,15:56,15,Tail wave,0,41,Abby,Abby
+Karina,2,3,Sing,07/03/2020,11:03,11:18,15,Sing,1,41,Abby,Alan
+Karina,2,4,Splash,07/03/2020,13:42,13:57,15,Sing,1,41,Abby,Gris
+Karina,2,5,Tail wave,07/04/2020,11:24,11:39,15,Tail wave,1,41,Abby,Andrea
+Karina,2,6,Splash,07/04/2020,14:07,14:22,15,Splash,1,41,Abby,Andrea
+Karina,2,7,Jump,07/06/2020,11:33,11:48,15,Jump,0,41,Abby,Abby
+Karina,2,8,Jump,07/07/2020,13:48,14:03,15,Jump,1,41,Juan Carlos,Andrea
+Karina,2,9,Spin,07/09/2020,13:42,13:58,16,Spin,1,44,Abby,Andrea
+Karina,2,10,Splash,07/08/2020,14:50,15:05,15,Jump,0,41,Juan Carlos,Juan Carlos
+Karina,2,11,Spin,07/11/2020,11:00,11:15,15,Spin,0,41,Abby,Abby
+Karina,2,12,Clap,07/11/2020,15:50,16:05,15,Jump,1,41,Abby,Gris
+Karina,2,13,Spin,07/12/2020,15:40,15:55,15,Spin,1,41,Emma,Benja
+Karina,2,14,Clap,07/13/2020,11:02,11:17,15,Spin,0,41,Abby,Abby
+Karina,2,15,Sing   ,07/13/2020,16:05,16:20,15,Sing,0,41,Abby,Abby
+Karina,2,16,Sing,07/14/2020,10:49,11:04,15,Sing,1,41,Andrea,Emma
+Karina,2,17,Clap,07/15/2020,11:05,11:20,15,Clap,1,41,Abby,Andrea
+Karina,2,18,Tail wave,07/14/2020,15:57,16:12,15,Spin,1,41,Emma,Andrea
+Lluvia,2,1,Splash,02/07/2020,11:16,11:31,15,Splash,1,41,Nayeli,Andrea
+Lluvia,2,2,Tail wave,07/02/2020,15:41,15:56,15,Tail wave,0,41,Nayeli,Nayeli
+Lluvia,2,3,Tail wave,07/03/2020,11:03,11:18,15,Splash,1,41,Nayeli,Andrea
+Lluvia,2,4,Sing,07/03/2020,13:42,13:57,15,Splash,1,41,Nayeli,Andrea
+Lluvia,2,5,Spin,07/04/2020,11:24,11:39,15,Spin,0,41,Andrea,Andrea
+Lluvia,2,6,Clao,07/04/2020,14:07,14:22,15,Clap,1,41,Andrea,Abby
+Lluvia,2,7,Splash,07/08/2020,11:11,11:26,15,Splash,0,41,Nayeli,Nayeli
+Lluvia,2,8,Tail wave,07/08/2020,14:45,15:00,15,Clap,1,41,Nayeli,Rafa
+Lluvia,2,9,Jump,07/09/2020,13:42,13:57,15,Tail wave,1,41,Nayeli,Andrea
+Lluvia,2,10,Clap,07/10/2020,16:22,16:37,15,Tail wave,0,41,Andrea,Andrea
+Lluvia,2,11,Splash,07/13/2020,11:02,11:17,15,Splash,1,41,Nayeli,Andrea
+Lluvia,2,12,Spin,07/14/2020,10:49,11:04,15,Spin,1,41,Nayeli,Andrea
+Lluvia,2,13,Jump,07/12/2020,14:06,14:21,15,Jump,0,41,Nayeli,Nayeli
+Lluvia,2,14,Tail wave,07/12/2020,15:35,15:50,15,Tail wave,1,41,Nayeli,Benja
+Lluvia,2,15,Sing,07/14/2020,13:04,13:19,15,Sing,0,41,Andrea,Andrea
+Lluvia,2,16,Spin,07/14/2020,15:54,16:09,15,Tail wave,1,41,Nayeli,Andrea
+Lluvia,2,17,Jump,07/15/2020,11:06,11:21,15,Jump,0,41,Andrea,Andrea
+Lluvia,2,18,Sing,07/15/2020,13:42,13:57,15,Sing,1,41,Andrea,Jorge
+Eva,2,1,Sing,01/07/2020,13:35,13:50,15,Sing,0,41,Nayeli,Nayeli
+Eva,2,2,Splash,07/02/2020,11:42,11:57,15,Splash,1,41,Gris,Andrea
+Eva,2,3,Spin,07/02/2020,16:05,16:21,16,Spin,0,44,Andrea,Andrea
+Eva,2,4,Jump,07/03/2020,11:14,11:29,15,Jump,1,41,Andrea,Nayeli
+Eva,2,5,Sing,07/03/2020,13:42,13:57,15,Clap,1,41,Gris,Abby
+Eva,2,6,Sing,07/04/2020,14:34,14:49,15,Sing,1,41,Gris,Andrea
+Eva,2,7,Tail wave,07/13/2020,11:02,11:18,16,Tail wave,1,44,Gris,Andrea
+Eva,2,8,Clap,07/13/2020,13:26,13:41,15,Clap,1,41,Gris,Andrea
+Eva,2,9,Jump,07/13/2020,15:49,16:04,15,Jump,1,41,Gris,Andrea
+Eva,2,10,Splash,07/14/2020,11:33,11:48,15,Clap,1,41,Gris,Andrea
+Eva,2,11,Clap,07/09/2020,11:09,11:24,15,Clap,0,41,Andrea,Andrea
+Eva,2,12,Tail wave,07/14/2020,14:54,15:09,15,Tail wave,0,41,Gris,Gris
+Eva,2,13,Clap,07/15/2020,16:27,16:42,15,Tail wave,1,41,Andrea,Juan Carlos
+Eva,2,14,Spin,07/15/2020,11:52,12:07,15,Tail wave,1,41,Gris,Andrea
+Eva,2,15,Jump,07/15/2020,13:42,13:57,15,Jump,0,41,Gris,Gris
+Eva,2,16,Tail wave,07/16/2020,11:16,11:31,15,Tail wave,1,41,Andrea,Benja
+Eva,2,17,Spin,07/16/2020,13:24,13:39,15,Tail wave,1,41,Andrea,Juan Carlos
+Eva,2,18,Splash,07/20/2020,10:08,10:23,15,Splash,0,41,Andrea,Andrea
+Nemo,3,1,Tail wave,14/07/2020,11:51,13:03,72,Tail wave,0,0,Benja,Benja
+Nemo,3,2,Splash,07/15/2020,11:57,13:35,98,Tail wave,1,0,Benja,Andrea
+Nemo,3,3,Spin,07/16/2020,10:52,11:52,60,Spin,0,0,Benja,Benja
+Nemo,3,4,Jump,07/18/2020,11:39,12:43,64,Jump,1,0,Andrea,Jorge
+Nemo,3,5,Sing,07/19/2020,10:21,11:36,75,Tail wave,1,0,Benja,Andrea
+Nemo,3,6,Sing,07/20/2020,09:56,10:59,63,Sing,0,0,Andrea,Andrea
+Nemo,3,7,Tail wave,07/20/2020,11:44,12:49,65,Spin,1,0,Andrea,Johny
+Nemo,3,8,Clap,07/21/2020,09:39,10:45,66,Sing,1,0,Andrea,Rafa
+Nemo,3,9,Jump,07/21/2020,11:35,12:46,71,Tail wave,1,0,Benja,Andrea
+Nemo,3,10,Splash,07/23/2020,09:52,11:29,98,Sing,1,0,Andrea,Jorge
+Nemo,3,11,Clap,07/23/2020,12:50,13:52,62,Clap,0,0,Benja,Benja
+Nemo,3,12,Sing,01/08/2020,13:05,14:30,85,Spin,1,0,Benja,Jenny
+Nemo,3,13,Clap,07/25/2020,11:36,12:40,64,Tail wave,1,0,Andrea,Hector
+Nemo,3,14,Spin,07/28/2020,11:23,14:32,189,Spin,1,0,Benja,Jenny
+Nemo,3,15,Jump,07/28/2020,08:40,10:15,95,Jump,0,0,Benja,Benja
+Nemo,3,16,Tail wave,07/29/2020,14:25,16:20,115,Spin,1,0,Benja,Jenny
+Nemo,3,17,Spin,07/31/2020,09:50,11:10,80,Spin,1,0,Benja,Emma
+Nemo,3,18,Splash,07/31/2020,11:40,13:10,90,Spin,0,0,Benja,Benja
+Karina,3,1,Clap,07/16/2020,10:05,11:41,96,Clap,0,0,Abby,Abby
+Karina,3,2,Splash,07/16/2020,13:47,14:53,66,Clap,1,0,Abby,Andrea
+Karina,3,3,Spin,07/18/2020,09:52,10:59,67,Spin,0,0,Abby,Abby
+Karina,3,4,Clap,07/18/2020,12:27,14:09,102,Clap,1,0,Abby,Andrea
+Karina,3,5,Splash,07/19/2020,09:53,11:32,99,Spin,0,0,Emma,Emma
+Karina,3,6,Jump,07/20/2020,11:47,12:52,65,Spin,1,0,Abby,Andrea
+Karina,3,7,Clap,07/20/2020,13:25,15:20,115,Spin,1,0,Abby,Andrea
+Karina,3,8,Spin,08/02/2020,12:34,13:40,66,Go down,1,0,Abby,Andrea
+Karina,3,9,Jump,07/24/2020,09:45,11:11,86,Spin,0,0,Abby,Abby
+Karina,3,10,Sing,07/24/2020,11:41,13:15,94,Sing,0,0,Abby,Abby
+Karina,3,11,Tail wave,01/08/2020,12:43,13:55,72,Tail wave,1,0,Abby,Rafa
+Karina,3,12,Sing,29/07/2020,12:25,13:22,57,Sing,1,0,Andrea,Andrea
+Karina,3,13,Splash,30/07/2020,13:00,14:42,102,Jump,1,0,Andrea,Jorge
+Karina,3,14,Tail wave,03/08/2020,12:01,13:58,117,Tail wave,0,0,Abby,Abby
+Karina,3,15,Jump,08/05/2020,12:41,14:00,79,Sing,1,0,Abby,Andrea
+Karina,3,16,Tail wave,08/06/2020,12:44,13:55,71,Tail wave,1,0,Abby,Jorge
+Karina,3,17,Spin,08/07/2020,12:43,13:56,73,Clap,1,0,Abby,Andrea
+Karina,3,18,Sing,08/09/2020,10:06,12:33,137,Tail wave,1,0,Andrea,Jorge
+Eva,3,1,Spin,07/18/2020,12:26,14:23,117,Spin,0,0,Andrea,Andrea
+Eva,3,2,Splash,07/19/2020,10:09,11:12,63,Splash,1,0,Andrea,Emma
+Eva,3,3,Clap,07/19/2020,11:22,12:26,64,Clap,0,0,Andrea,Andrea
+Eva,3,4,Sing,07/21/2020,09:54,10:58,65,Sing,1,0,Gris,Andrea
+Eva,3,5,Tail wave,07/24/2020,12:20,14:25,125,Tail wave,1,0,Gris,Andrea
+Eva,3,6,Jump,07/28/2020,11:26,13:48,132,Clap,1,0,Gris,Andrea
+Eva,3,7,Tail wave,07/30/2020,11:56,13:03,67,Sing,1,0,Andrea,Gris
+Eva,3,8,Jump,08/01/2020,12:43,13:55,72,Tail wave,1,0,Gris,Andrea
+Eva,3,9,Splash,07/23/2020,12:00,13:05,65,Clap,0,0,Gris,Gris
+Eva,3,10,Spin,07/25/2020,10:07,11:20,73,Splash,1,0,Gris,Andrea
+Eva,3,11,Sing,25/07/2020,12:08,13:34,86,Splash,0,0,Gris,Gris
+Eva,3,12,Tail wave,02/08/2020,12:34,13:37,63,Tail wave,1,0,Gris,Andrea
+Eva,3,13,Sing,03/08/2020,12:01,13:58,117,Sing,1,0,Gris,Andrea
+Eva,3,14,Clap,05/08/2020,12:41,14:00,79,Clap,1,0,Andrea,Rafa
+Eva,3,15,Spin,08/07/2020,12:31,13:50,79,Tail wave,1,0,Gris,Andrea
+Eva,3,16,Tail wave,08/09/2020,12:40,14:15,79,Tail wave,1,0,Gris,Andrea
+Eva,3,17,Splash,08/09/2020,10:00,12:23,143,Splash,1,0,Gris,Andrea
+Eva,3,18,Clap,08/10/2020,12:28,14:14,106,Clap,1,0,Gris,Andrea
+Lluvia,3,1,Jump,07/18/2020,09:52,10:59,67,Clap,0,0,Andrea,Tavo
+Lluvia,3,2,Tail wave,07/19/2020,09:53,11:32,99,Jump,0,0,Andrea,Andrea
+Lluvia,3,3,Sing,07/20/2020,11:36,12:49,73,Sing,1,0,Andrea,Juan Carlos
+Lluvia,3,4,Splash,07/20/2020,14:05,15:15,70,Sing,1,0,Andrea,Juan Carlos
+Lluvia,3,5,Tail wave,07/21/2020,11:40,12:45,65,Tail wave,0,0,Andrea,Andrea
+Lluvia,3,6,Splash,07/23/2020,09:52,11:30,98,Tail wave,1,0,Andrea,Jorge
+Lluvia,3,7,Jump,07/28/2020,09:55,10:55,60,Jump,0,0,Nayeli,Nayeli
+Lluvia,3,8,Jump,07/28/2020,12:50,13:52,62,Tail wave,1,0,Nayeli,Andrea
+Lluvia,3,9,Spin,08/01/2020,12:04,13:04,60,Clap,1,0,Nayeli,Andrea
+Lluvia,3,10,Splash,08/02/2020,12:34,13:37,63,Sing,0,0,Nayeli,Nayeli
+Lluvia,3,11,Spin,08/03/2020,12:01,13:58,117,Tail wave,0,0,Nayeli,Nayeli
+Lluvia,3,12,Clap,08/05/2020,12:41,14:01,80,Tail wave,1,0,Nayeli,Andrea
+Lluvia,3,13,Spin,08/06/2020,11:40,13:55,135,Sing,1,0,Nayeli,Andrea
+Lluvia,3,14,Sing,08/07/2020,12:31,13:56,85,Sing,0,0,Nayeli,Nayeli
+Lluvia,3,15,Clap,08/09/2020,10:06,12:33,137,Clap,0,0,Nayeli,Nayeli
+Lluvia,3,16,Sing,08/09/2020,12:52,14:28,96,Sing,1,0,Nayeli,Andrea
+Lluvia,3,17,Clap,08/10/2020,12:28,14:13,105,Clap,1,0,Nayeli,Andrea
+Lluvia,3,18,Tail wave,08/11/2020,12:49,13:49,60,Tail wave,1,0,Nayeli,Andrea
+Nouba,3,1,Splash,16/07/2020,10:19,11:54,96,Splash,0,0,Andrea,Andrea
+Nouba,3,2,Tail wave,07/16/2020,12:38,13:53,75,Tail wave,0,0,Andrea,Andrea
+Nouba,3,3,Tail wave,07/18/2020,12:26,14:23,117,Tail wave,1,0,Abril,Andrea
+Nouba,3,4,Sing,07/19/2020,10:09,11:12,63,Sing,1,0,Benja,Andrea
+Nouba,3,5,Spin,07/19/2020,11:22,12:26,64,Tail wave,1,0,Rafa,Andrea
+Nouba,3,6,Clap,07/24/2020,12:20,14:25,125,Clap,1,0,Abril,Andrea
+Nouba,3,7,Splash,07/20/2020,12:12,13:17,65,Tail wave,0,0,Abril,Andrea
+Nouba,3,8,Tail wave,07/25/2020,10:07,11:20,73,Clap,1,0,Abril,Andrea
+Nouba,3,9,Jump,07/25/2020,12:08,13:34,86,Clap,1,0,Andrea,Abril
+Nouba,3,10,Clap,07/28/2020,10:34,11:39,65,Clap,0,0,Andrea,Andrea
+Nouba,3,11,Splash,07/30/2020,11:56,13:01,65,Clap,1,0,Abril,Andrea
+Nouba,3,12,Spin,08/02/2020,12:34,13:37,65,Spin,1,0,Andrea,Jorge
+Nouba,3,13,Jump,08/03/2020,12:26,13:53,87,Splash,0,0,Andrea,Andrea
+Nouba,3,14,Clap,08/09/2020,10:17,11:45,88,Splash,0,0,Andrea,Andrea
+Nouba,3,15,Sing,08/09/2020,12:02,14:15,133,Sing,0,0,Andrea,Andrea
+Nouba,3,16,Spin,08/10/2020,10:18,11:55,97,Spin,1,0,Andrea,Jorge
+Nouba,3,17,Jump,08/10/2020,12:37,14:40,123,Spin,1,0,Andrea,Abril
+Nouba,3,18,Sing,08/12/2020,12:41,14:19,98,Splash,1,0,Carlos,Abril
+Eva,4,1,Splash,28/07/2020,15:20,16:22,63,Spin,0,85,Gris,Gris
+Eva,4,2,Tail wave,07/29/2020,10:24,11:24,60,Tail wave,0,81,Andrea,Andrea
+Eva,4,3,Tail wave,07/29/2020,14:40,15:53,73,Tail wave,1,99,Rafa,Andrea
+Eva,4,4,Sing,07/30/2020,09:33,11:01,88,Sing,1,119,Gris,Andrea
+Eva,4,5,Spin,08/01/2020,10:13,11:35,92,Sing,0,124,Andrea,Andrea
+Eva,4,6,Clap,08/02/2020,10:28,11:40,82,Clap,1,111,Gris,Andrea
+Eva,4,7,Splash,08/05/2020,09:36,11:07,91,Clap,0,123,Andrea,Andrea
+Eva,4,8,Tail wave,08/06/2020,10:00,11:50,110,Tail wave,1,149,Gris,Andrea
+Eva,4,9,Jump,08/07/2020,10:14,11:36,82,Tail wave,1,111,Gris,Andrea
+Eva,4,10,Clap,08/11/2020,14:11,16:08,63,Clap,1,85,Gris,Andrea
+Eva,4,11,Splash,08/10/2020,14:33,16:18,105,Splash,1,142,Gris,Andrea
+Eva,4,12,Spin,08/11/2020,10:43,11:44,61,Spin,1,82,Gris,Andrea
+Eva,4,13,Jump,08/12/2020,12:33,14:21,108,Tail wave,0,146,Andrea,Andrea
+Eva,4,14,Clap,08/14/2020,10:19,12:19,120,Tail wave,1,162,Gris,Andrea
+Eva,4,15,Sing,08/14/2020,14:12,16:05,113,Sing,0,153,Gris,Gris
+Eva,4,16,Spin,08/17/2020,10:02,12:03,121,Spin,1,163,Gris,Andrea
+Eva,4,17,Jump,08/17/2020,14:09,15:55,106,Spin,1,143,Gris,Andrea
+Eva,4,18,Sing,08/18/2020,09:48,11:11,83,Clap,1,112,Gris,Andrea
+Karina,4,1,Sing,29/07/2020,09:30,11:42,132,Tail wave,0,178,Hector,Hector
+Karina,4,2,Go down,08/18/2020,09:24,12:00,156,Go down,0,211,Abby,Andrea
+Karina,4,3,Spin,08/01/2020,10:10,11:36,86,Sing,0,116,Abby,Abby
+Karina,4,4,Jump,08/03/2020,09:38,11:46,128,Jump,1,173,Jorge,Abby
+Karina,4,5,Sing,08/05/2020,10:29,12:21,52,Sing,1,70,Abby,Andrea
+Karina,4,6,Sing,08/06/2020,10:23,11:50,87,Sing,1,117,Jorge,Abby
+Karina,4,7,Tail wave,08/10/2020,11:21,12:19,58,Tail wave,1,78,Andrea,Abby
+Karina,4,8,Clap,08/07/2020,10:07,11:34,87,Tail wave,1,117,Abby,Andrea
+Karina,4,9,Jump,08/09/2020,12:44,14:22,98,Jump,1,132,Andrea,Jorge
+Karina,4,10,Go down,08/10/2020,14:31,16:03,92,Go down,1,124,Abby,Andrea
+Karina,4,11,Clap,08/11/2020,10:25,11:35,70,Clap,1,95,Andrea,Nayeli
+Karina,4,12,Tail wave,08/11/2020,14:10,16:07,113,Tail wave,0,153,Andrea,Andrea
+Karina,4,13,Clap,08/12/2020,10:28,11:58,90,Tail wave,1,122,Abby,Andrea
+Karina,4,14,Spin,08/12/2020,14:34,16:16,102,Clap,1,138,Abby,Andrea
+Karina,4,15,Jump,08/14/2020,10:50,11:59,69,Jump,1,93,Jorge,Andrea
+Karina,4,16,Tail wave,08/14/2020,12:52,13:58,66,Tail wave,1,89,Abby,Andrea
+Karina,4,17,Spin,08/17/2020,09:36,11:11,95,Tail wave,1,128,Abby,Nayeli
+Karina,4,18,Go down,08/17/2020,12:30,14:01,91,Spin,0,123,Abby,Abby
+Lluvia,4,1,Clap,07/29/2020,09:29,10:49,80,Clap,0,108,Nayeli,Nayeli
+Lluvia,4,2,Splash,07/30/2020,09:30,11:10,100,Splash,1,135,Nayeli,Andrea
+Lluvia,4,3,Clap,08/01/2020,09:54,11:34,100,Spin,1,135,Nayeli,Andrea
+Lluvia,4,4,Sing,08/02/2020,10:08,11:35,87,Sing,1,117,Nayeli,Andrea
+Lluvia,4,5,Tail wave,08/03/2020,09:37,10:37,60,Tail wave,0,81,Nayeli,Nayeli
+Lluvia,4,6,Jump,08/10/2020,14:31,16:01,90,Clap,1,122,Nayeli,Andrea
+Lluvia,4,7,Tail wave,08/05/2020,10:27,12:22,55,Tail wave,1,74,Nayeli,Andrea
+Lluvia,4,8,Jump,08/12/2020,10:28,12:15,107,Sing,1,144,Nayeli,Andrea
+Lluvia,4,9,Splash,08/07/2020,10:16,11:34,78,Sing,0,105,Nayeli,Nayeli
+Lluvia,4,10,Spin,07/30/2020,13:00,14:42,102,Splash,1,138,Nayeli,Andrea
+Lluvia,4,11,Sing,11/08/2020,10:20,11:35,75,Sing,1,101,Nayeli,Andrea
+Lluvia,4,12,Tail wave,12/08/2020,14:34,16:10,96,Tail wave,1,130,Nayeli,Andrea
+Lluvia,4,13,Sing,14/08/2020,10:50,11:58,68,Sing,1,92,Nayeli,Andrea
+Lluvia,4,14,Spin,14/08/2020,14:27,16:06,99,Clap,0,134,Nayeli,Nayeli
+Lluvia,4,15,Spin,08/17/2020,09:36,11:11,95,Spin,1,128,Nayeli,Abby
+Lluvia,4,16,Jump,08/17/2020,15:00,16:00,60,Jump,0,81,Nayeli,Nayeli
+Lluvia,4,17,Splash,08/18/2020,09:21,11:34,133,Splash,1,180,Carlos,Nayeli
+Lluvia,4,18,Clap,08/18/2020,14:06,15:50,104,Sing,1,140,Nayeli,Andrea
+Nouba,4,1,Clap,07/29/2020,10:22,11:35,73,Clap,0,99,Andrea,Andrea
+Nouba,4,2,Splash,07/29/2020,14:43,16:00,77,Clap,1,104,Andrea,Hector
+Nouba,4,3,Spin,07/30/2020,09:50,11:00,70,Splash,1,95,Carlos,Abril
+Nouba,4,4,Clap,08/03/2020,09:53,10:51,58,Splash,1,78,Andrea,Tavo
+Nouba,4,5,Splash,08/02/2020,10:27,11:39,72,Splash,0,97,Andrea,Andrea
+Nouba,4,6,Jump,08/03/2020,12:26,14:08,102,Splash,1,138,Andrea,Rafa
+Nouba,4,7,Clap,08/05/2020,11:18,12:26,68,Clap,1,92,Abril,Andrea
+Nouba,4,8,Spin,08/06/2020,10:20,11:17,57,Spin,1,77,Andrea,Abril
+Nouba,4,9,Jump,08/10/2020,14:46,16:06,80,Spin,0,108,Andrea,Andrea
+Nouba,4,10,Sing,08/17/2020,09:39,11:21,102,Sing,0,138,Andrea,Andrea
+Nouba,4,11,Tail wave,17/08/2020,13:32,15:30,118,Clap,1,159,Andrea,Rafa
+Nouba,4,12,Sing,18/08/2020,13:52,15:47,115,Sing,1,155,Andrea,Nayeli
+Nouba,4,13,Splash,11/08/2020,15:05,16:01,56,Splash,0,76,Abril,Abril
+Nouba,4,14,Tail wave,18/08/2020,09:40,11:11,91,Spin,0,123,Andrea,Andrea
+Nouba,4,15,Jump,08/20/2020,09:40,12:01,141,Sing,1,190,Carlos,Abril
+Nouba,4,16,Tail wave,08/20/2020,14:50,16:20,90,Splash,1,122,Andrea,Abril
+Nouba,4,17,Spin,08/21/2020,10:39,12:26,107,Clap,1,144,Abril,Andrea
+Nouba,4,18,Sing,08/21/2020,14:10,16:23,133,Splash,1,180,Abril,Andrea
+Nemo,4,1,Jump,07/30/2020,11:10,14:16,186,Spin,1,251,Vero,Jenny
+Nemo,4,2,Tail wave,08/01/2020,09:45,11:20,95,Tail wave,0,128,Benja,Benja
+Nemo,4,3,Sing,08/02/2020,09:30,11:00,90,Spin,1,122,Benja,Johny
+Nemo,4,4,Splash,08/05/2020,10:20,11:30,70,Splash,1,95,Benja,Jenny
+Nemo,4,5,Tail wave,08/07/2020,10:15,11:15,60,Tail wave,1,81,Benja,Rafa
+Nemo,4,6,Splash,08/08/2020,10:00,11:00,60,Splash,1,81,Benja,Jenny
+Nemo,4,7,Jump,07/29/2020,11:00,12:00,60,Jump,0,81,Benja,Benja
+Nemo,4,8,Jump,08/09/2020,10:50,12:05,75,Jump,1,101,Benja,Vero
+Nemo,4,9,Spin,08/12/2020,10:15,11:15,60,Spin,1,81,Benja,Jenny
+Nemo,4,10,Splash,08/14/2020,09:26,10:27,61,Splash,0,82,Benja,Benja
+Nemo,4,11,Spin,08/14/2020,11:30,12:30,60,Spin,0,81,Jenny,Jenny
+Nemo,4,12,Clap,08/15/2020,09:30,10:30,60,Spin,1,81,Benja,Jenny
+Nemo,4,13,Spin,08/21/2020,11:15,12:30,75,Spin,1,101,Benja,Vero
+Nemo,4,14,Sing,08/16/2020,12:15,13:20,65,Clap,0,88,Benja,Benja
+Nemo,4,15,Clap,08/17/2020,10:51,13:00,129,Sing,1,174,Andrea,Jenny
+Nemo,4,16,Sing,08/18/2020,14:30,15:40,70,Sing,1,95,Vero,Benja
+Nemo,4,17,Clap,08/22/2020,10:45,12:30,105,Spin,1,142,Jenny,Emma
+Nemo,4,18,Tail wave,08/26/2020,09:15,10:15,60,Spin,1,81,Benja,Vero
+Eva,5,1,Jump,08/22/2020,10:22,14:21,239,Jump,1,161,Gris,Andrea
+Eva,5,2,Tail wave,08/18/2020,11:56,15:51,235,Tail wave,0,159,Gris,Gris
+Eva,5,3,Sing,08/19/2020,10:29,14:13,224,Spin,1,151,Gris,Andrea
+Eva,5,4,Splash,08/20/2020,09:40,14:38,298,Splash,1,201,Nayeli,Andrea
+Eva,5,5,Tail wave,08/21/2020,10:38,13:55,197,Clap,1,133,Gris,Andrea
+Eva,5,6,Splash,08/23/2020,09:32,14:03,271,Sing,1,183,Andrea,Gris
+Eva,5,7,Jump,08/25/2020,09:17,14:05,288,Jump,0,194,Andrea,Andrea
+Eva,5,8,Jump,08/26/2020,10:05,14:15,250,Jump,1,169,Andrea,Abril
+Eva,5,9,Spin,08/24/2020,09:47,14:33,287,Jump,1,194,Gris,Tania
+Eva,5,10,Splash,´08/27/2020,09:15,12:22,187,Spin,0,126,Andrea,Andrea
+Eva,5,11,Spin,08/27/2020,12:40,16:53,253,Spin,0,171,Andrea,Andrea
+Eva,5,12,Clap,08/28/2020,10:30,14:40,250,Spin,1,169,Gris,Abril
+Eva,5,13,Spin,08/31/2020,10:26,14:11,225,Clap,1,152,Gris,Andrea
+Eva,5,14,Sing,09/01/2020,10:36,14:24,222,Clap,0,150,Gris,Gris
+Eva,5,15,Clap,09/02/2020,10:40,14:39,239,Spin,0,161,Carlos,Carlos
+Eva,5,16,Sing,09/03/2020,10:07,14:09,242,Sing,1,163,Gris,Juan Carlos
+Eva,5,17,Clap,09/04/2020,09:37,14:00,263,Sing,1,178,Gris,Andrea
+Eva,5,18,Tail wave,09/05/2020,10:33,13:18,225,Sing,1,152,Gris,Andrea
+Karina,5,1,Go down,18/08/2020,14:09,16:56,167,Go down,1,113,Abby,Andrea
+Karina,5,2,Tail wave,08/19/2020,12:35,16:00,205,Tail wave,0,138,Abby,Abby
+Karina,5,3,Tail wave,08/20/2020,10:27,14:10,223,Go down,1,151,Abby,Andrea
+Karina,5,4,Sing,08/21/2020,10:37,13:54,197,Jump,1,133,Abby,Andrea
+Karina,5,5,Spin,08/22/2020,09:50,14:14,264,Spin,0,178,Andrea,Andrea
+Karina,5,6,Clap,08/23/2020,09:27,14:07,280,Spin,1,189,Abby,Andrea
+Karina,5,7,Go down   ,08/26/2020,10:30,14:25,235,Go down,0,159,Abby,Abby
+Karina,5,8,Tail wave,08/27/2020,09:55,13:53,238,Tail wave,1,161,Abby,Ceci
+Karina,5,9,Jump,08/28/2020,10:25,14:30,245,Spin,1,165,Abby,Gris
+Karina,5,10,Clap,08/30/2020,10:45,14:25,220,Clap,0,149,Abby,Abby
+Karina,5,11,Go down,08/31/2020,10:30,14:12,222,Go down,1,150,Abby,Andrea
+Karina,5,12,Spin,09/02/2020,09:44,14:36,292,Tail wave,1,197,Abby,Jorge
+Karina,5,13,Jump,09/03/2020,10:22,14:08,226,Jump,0,153,Abby,Abby
+Karina,5,14,Clap,09/04/2020,09:46,14:03,257,Spin,1,173,Abby,Andrea
+Karina,5,15,Sing,09/05/2020,11:03,14:35,212,Spin,1,143,Abby,Andrea
+Karina,5,16,Spin,09/07/2020,10:50,14:32,222,Jump,1,150,Abby,Jorge
+Karina,5,17,Jump,09/09/2020,10:52,14:12,200,Jump,1,135,Abby,Jorge
+Karina,5,18,Sing,09/10/2020,10:13,14:15,242,Sing,1,163,Abby,Rafa
+Lluvia,5,1,Clap,08/19/2020,10:04,14:09,245,Clap,0,165,Andrea,Andrea
+Lluvia,5,2,Splash,08/20/2020,09:56,14:09,253,Sing,1,171,Tania,Andrea
+Lluvia,5,3,Spin,08/21/2020,10:37,13:54,197,Clap,0,133,Nayeli,Nayeli
+Lluvia,5,4,Clap,08/22/2020,10:13,14:16,243,Sing,1,164,Nayeli,Andrea
+Lluvia,5,5,Splash,08/23/2020,09:27,14:12,285,Sing,1,192,Nayeli,Andrea
+Lluvia,5,6,Jump,08/25/2020,10:05,14:00,235,Clap,1,159,Nayeli,Andrea
+Lluvia,5,7,Clap,08/27/2020,10:32,14:10,218,Clap,1,147,Tania,Andrea
+Lluvia,5,8,Spin,08/24/2020,09:58,14:39,281,Clap,0,190,Andrea,Andrea
+Lluvia,5,9,Jump,08/26/2020,10:30,14:25,235,Jump,1,159,Tania,Andrea
+Lluvia,5,10,Sing,08/31/2020,14:20,17:00,160,Clap,1,108,Nayeli,Abby
+Lluvia,5,11,Tail wave,01/09/2020,10:53,14:22,209,Tail wave,0,141,Nayeli,Nayeli
+Lluvia,5,12,Sing,02/09/2020,09:42,14:37,295,Tail wave,1,199,Nayeli,Andrea
+Lluvia,5,13,Splash,03/09/2020,09:36,14:09,273,Sing,1,184,Nayeli,Tania
+Lluvia,5,14,Tail wave,04/09/2020,10:47,13:59,192,Jump,0,130,Nayeli,Nayeli
+Lluvia,5,15,Jump,09/05/2020,10:30,14:33,243,Tail wave,1,164,Tania,Andrea
+Lluvia,5,16,Tail wave,09/07/2020,12:00,16:05,245,Jump,1,165,Tania,Andrea
+Lluvia,5,17,Spin,09/09/2020,10:52,14:13,201,Tail wave,1,136,Tania,Abby
+Lluvia,5,18,Sing,09/10/2020,09:59,13:51,232,Tail wave,1,157,Tania,Andrea
+Nouba,5,1,Sing,19/08/2020,10:14,14:11,237,Sing,0,160,Andrea,Andrea
+Nouba,5,2,Splash,08/22/2020,10:22,14:22,240,Splash,1,162,Abril,Andrea
+Nouba,5,3,Spin,08/23/2020,09:48,14:08,260,Spin,1,176,Nayeli,Andrea
+Nouba,5,4,Jump,08/25/2020,09:56,14:00,244,Clap,1,165,Abril,Andrea
+Nouba,5,5,Sing,08/24/2020,09:46,15:02,316,Sing,1,213,Abril,Andrea
+Nouba,5,6,Sing,08/26/2020,11:30,14:30,180,Sing,1,122,Abril,Andrea
+Nouba,5,7,Tail wave,08/27/2020,10:40,15:50,310,Spin,0,209,Abril,Abril
+Nouba,5,8,Clap,08/28/2020,10:30,14:40,250,Clap,1,169,Abril,Gris
+Nouba,5,9,Jump,09/01/2020,10:35,14:50,255,Clap,1,172,Abril,Andrea
+Nouba,5,10,Splash,08/31/2020,14:20,17:00,160,Splash,1,108,Abril,Andrea
+Nouba,5,11,Clap,09/02/2020,12:07,16:01,234,Clap,0,158,Abril,Abril
+Nouba,5,12,Tail wave,09/03/2020,10:13,14:08,235,Clap,1,159,Jorge,Abril
+Nouba,5,13,Clap,09/11/2020,09:38,14:17,279,Spin,1,188,Abril,Andrea
+Nouba,5,14,Spin,09/09/2020,12:28,15:45,197,Sing,1,133,Abril,Juan Carlos
+Nouba,5,15,Jump,09/10/2020,10:36,14:12,216,Spin,0,146,Carlos,Carlos
+Nouba,5,16,Tail wave,09/12/2020,10:17,15:04,287,Spin,1,194,Abril,Hector
+Nouba,5,17,Spin,09/14/2020,11:53,16:38,225,Spin,1,152,Abril,Andrea
+Nouba,5,18,Splash,09/19/2020,10:08,13:54,226,Clap,1,153,Abril,Carlos
+Nemo,5,1,Spin,08/27/2020,09:30,12:40,190,Sing,0,128,Benja,Benja
+Nemo,5,2,Splash,08/26/2020,10:30,13:30,180,Clap,1,122,Benja,Vero
+Nemo,5,3,Clap,08/28/2020,10:00,13:47,227,Spin,1,153,Benja,Jenny
+Nemo,5,4,Sing,08/30/2020,09:56,14:10,254,Spin,1,171,Emma,Vero
+Nemo,5,5,Tail wave,09/03/2020,10:07,14:10,243,Tail wave,1,164,Benja,Jenny
+Nemo,5,6,Jump,09/04/2020,09:30,12:40,190,Tail wave,1,128,Benja,Jenny
+Nemo,5,7,Tail wave,08/25/2020,09:45,13:05,200,Clap,1,135,Benja,Rafa
+Nemo,5,8,Jump,09/05/2020,10:30,14:10,220,Jump,1,149,Rafa,Jenny
+Nemo,5,9,Splash,09/12/2020,11:07,15:14,253,Sing,0,171,Andrea,Andrea
+Nemo,5,10,Spin,09/14/2020,09:59,13:23,204,Sing,1,138,Jenny,Andrea
+Nemo,5,11,Sing,15/09/2020,13:32,15:51,139,Sing,1,94,Vero,Andrea
+Nemo,5,12,Tail wave,16/09/2020,10:21,14:04,223,Tail wave,1,151,Andrea,Jenny
+Nemo,5,13,Sing,18/09/2020,11:35,14:20,165,Sing,1,111,Andrea,Jenny
+Nemo,5,14,Clap,02/09/2020,09:37,13:15,218,Sing,1,147,Jenny,Vero
+Nemo,5,15,Spin,09/20/2020,10:45,14:46,241,Spin,1,163,Andrea,Vero
+Nemo,5,16,Jump,09/21/2020,11:17,15:00,283,Tail wave,0,191,Andrea,Andrea
+Nemo,5,17,Splash,09/22/2020,10:55,15:00,245,Spin,1,165,Vero,Jenny
+Nemo,5,18,Clap,09/23/2020,10:35,14:15,220,Clap,1,149,Andrea,Vero
+Eva,6,1,Clap,07/29-30/2020,16:50,09:13,983,Clap,0,0,Andrea,Andrea
+Eva,6,2,Splash,08/01/2020,16:24,08:50,986,Tail wave,1,0,Gris,Andrea
+Eva,6,3,Spin,08/02/2020,16:48,09:20,992,Clap,0,0,Gris,Gris
+Eva,6,4,Clap,08/03/2020,16:34,08:59,985,Sing,0,0,Gris,Gris
+Eva,6,5,Splash,08/05/2020,16:17,09:03,1006,Splash,0,0,Andrea,Andrea
+Eva,6,6,Jump,08/06/2020,16:40,09:18,998,Clap,1,0,Gris,Andrea
+Eva,6,7,Clap,08/17/2020,16:13,09:34,1041,Tail wave,1,0,Gris,Andrea
+Eva,6,8,Spin,08/10/2020,16:47,09:40,1013,Clap,1,0,Gris,Andrea
+Eva,6,9,Jump,08/18/2020,16:35,09:24,1009,Clap,1,0,Gris,Andrea
+Eva,6,10,Sing,08/09/2020,16:24,09:19,1015,Splash,0,0,Gris,Gris
+Eva,6,11,Tail wave,11/08/2020,17:22,09:31,969,Clap,1,0,Gris,Andrea
+Eva,6,12,Sing,19/08/2020,16:36,09:30,1014,Sing,1,0,Gris,Nayeli
+Eva,6,13,Splash,20/08/2020,16:52,09:51,1019,Sing,1,0,Nayeli,Gris
+Eva,6,14,Tail wave,21/08/2020,16:41,09:30,1009,Tail wave,0,0,Gris,Gris
+Eva,6,15,Jump,08/22/2020,16:33,09:22,1009,Jump,1,0,Gris,Andrea
+Eva,6,16,Tail wave,08/23/2020,16:25,09:35,1030,Tail wave,1,0,Gris,Andrea
+Eva,6,17,Spin,08/24/2020,16:30,09:12,1002,Spin,1,0,Gris,Andrea
+Eva,6,18,Sing,08/25/2020,16:57,09:07,970,Sing,1,0,Gris,Andrea
+Lluvia,6,1,Spin,07/29-30/2020,16:50,09:15,985,Spin,0,0,Nayeli,Nayeli
+Lluvia,6,2,Splash,08/03/2020,16:34,08:49,975,Spin,1,0,Nayeli,Andrea
+Lluvia,6,3,Clap,08/02/2020,16:48,09:20,992,Sing,1,0,Nayeli,Andrea
+Lluvia,6,4,Sing,08/05/2020,16:42,09:11,989,Tail wave,1,0,Nayeli,Andrea
+Lluvia,6,5,Tail wave,08/06/2020,16:54,09:12,978,Tail wave,0,0,Nayeli,Nayeli
+Lluvia,6,6,Jump,08/09/2020,16:40,09:39,1019,Tail wave,1,0,Nayeli,Andrea
+Lluvia,6,7,Tail wave,08/10/2020,16:50,09:33,1003,Tail wave,1,0,Nayeli,Andrea
+Lluvia,6,8,Jump,08/11/2020,17:02,09:22,980,Tail wave,1,0,Nayeli,Andrea
+Lluvia,6,9,Splash,08/17/2020,16:28,09:11,1003,Sing,1,0,Nayeli,Carlos
+Lluvia,6,10,Spin,08/18/2020,17:00,09:37,997,Sing,1,0,Nayeli,Andrea
+Lluvia,6,11,Sing,19/08/2020,16:16,09:46,1050,Sing,0,0,Tania,Tania
+Lluvia,6,12,Tail wave,20/08/2020,16:52,09:51,1018,Tail wave,1,0,Tania,Nayeli
+Lluvia,6,13,Sing,22/08/2020,16:43,09:16,993,Sing,1,0,Nayeli,Andrea
+Lluvia,6,14,Clap,23/08/2020,16.23,09:53,1050,Clap,0,0,Tania,Tania
+Lluvia,6,15,Spin,08/24/2020,16:25,09:38,1033,Clap,1,0,Tania,Andrea
+Lluvia,6,16,Jump,08/26/2020,16:57,09:41,1004,Jump,0,0,Tania,Tania
+Lluvia,6,17,Splash,08/27/2020,16:48,08:58,970,Clap,0,0,Andrea,Andrea
+Lluvia,6,18,Clap,08/25/2020,16:40,10:09,1049,Clap,1,0,Andrea,Tania
+Nemo,6,1,Splash,30/07/2020,16:16,09:00,1004,Spin,1,0,Jenny,Emma
+Nemo,6,2,Tail wave,07/31/2020,16:30,09:30,1020,Tail wave,0,0,Benja,Benja
+Nemo,6,3,Tail wave,08/06/2020,16:10,09:10,1020,Tail wave,1,0,Jhonny,Vero
+Nemo,6,4,Sing,08/07/2020,04:15,09:15,1020,Tail wave,1,0,Benja,Jenny
+Nemo,6,5,Spin,08/08/2020,04:30,09:00,990,Spin,0,0,Jhonny,Jhonny
+Nemo,6,6,Clap,08/09/2020,04:00,09:30,1050,Clap,1,0,Benja,Jenny
+Nemo,6,7,Splash,08/10/2020,04:40,09:40,1020,Clap,1,0,Jhonny,Rafa
+Nemo,6,8,Tail wave,07/29/2020,17:20,09:08,968,Tail wave,1,0,Benja,Jenny
+Nemo,6,9,Jump,08/12/2020,16:50,09:22,992,Spin,1,0,Benja,Emma
+Nemo,6,10,Clap,08/14/2020,16:26,09:15,1009,Spin,0,0,Benja,Benja
+Nemo,6,11,Splash,08/15/2020,16:20,09:10,1010,Spin,1,0,Rafa,Emma
+Nemo,6,12,Spin,08/18/2020,16:00,10:38,1118,Spin,1,0,Benja,Vero
+Nemo,6,13,Jump,08/25/2020,16:10,09:10,1020,Jump,0,0,Benja,Benja
+Nemo,6,14,Clap,08/21/2020,16:20,08:40,980,Sing,1,0,Vero,Benja
+Nemo,6,15,Sing,08/26/2020,16:00,09:20,1040,Sing,0,0,Benja,Benja
+Nemo,6,16,Spin,08/27/2020,16:10,09:40,1050,Spin,1,0,Benja,Jenny
+Nemo,6,17,Jump,08/20/2020,16:15,09:30,975,Jump,1,0,Jenny,Vero
+Nemo,6,18,Sing,08/28/2020,16:00,09:30,990,Spin,1,0,Jenny,Jhonny
+Nouba,6,1,Sing,07/29-30/2020,16:47,09:40,1027,Clap,0,0,Carlos,Carlos
+Nouba,6,2,Splash,08/02/2020,16:10,09:40,1050,Splash,1,0,Andrea,Abril
+Nouba,6,3,Spin,08/03/2020,16:05,08:59,954,Clap,0,0,Andrea,Andrea
+Nouba,6,4,Jump,08/06/2020,16:42,09:10,988,Spin,0,0,Andrea,Andrea
+Nouba,6,5,Sing,08/05/2020,16:30,09:01,991,Clap,1,0,Andrea,Nayeli
+Nouba,6,6,Sing,08/09/2020,16:24,09:19,1015,Clap,1,0,Andrea,Jorge
+Nouba,6,7,Tail wave,08/11/2020,17:22,09:30,968,Clap,1,0,Abril,Andrea
+Nouba,6,8,Clap,08/17/2020,16:13,09:32,1056,Sing,1,0,Andrea,Abril
+Nouba,6,9,Jump,08/18/2020,16:50,10:09,1039,Sing,1,0,Andrea,Jorge
+Nouba,6,10,Splash,08/19/2020,16:36,09:30,1014,Sing,1,0,Andrea,Carlos
+Nouba,6,11,Clap,08/20/2020,16:52,09:51,1019,Clap,0,0,Abril,Abril
+Nouba,6,12,Tail wave,08/21/2020,16:47,08:38,951,Spin,0,0,Abril,Abril
+Nouba,6,13,Clap,08/23/2020,16:25,09:32,1027,Splash,1,0,Carlos,Andrea
+Nouba,6,14,Spin,08/24/2020,16:30,09:31,1021,Spin,1,0,Abril,Andrea
+Nouba,6,15,Jump,08/26/2020,16:56,09:40,1004,Sing,1,0,Andrea,Abril
+Nouba,6,16,Tail wave,08/27/2020,16:44,08:45,961,Clap,0,0,Abril,Abril
+Nouba,6,17,Spin,09/01/2020,17:25,09:30,965,Spin,0,0,Abril,Abril
+Nouba,6,18,Splash,09/02/2020,16:40,09:56,1036,Splash,1,0,Abril,Andrea
+Karina,6,1,Jump,08/02/2020,16:48,09:20,992,Jump,1,0,Abby,Jorge
+Karina,6,2,Tail wave,08/05/2020,16:19,09:10,1011,Tail wave,0,0,Abby,Abby
+Karina,6,3,Sing,08/03/2020,16:20,08:49,989,Jump,1,0,Abby,Jorge
+Karina,6,4,Go down,08/01/2020,16:25,08:44,979,Go down,0,0,Abby,Abby
+Karina,6,5,Tail wave,08/06/2020,16:54,09:17,983,Tail wave,1,0,Abby,Juan Carlos
+Karina,6,6,Go down,08/09/2020,16:40,09:33,1013,Tail wave,1,0,Andrea,Jorge
+Karina,6,7,Jump,08/10/2020,16:50,09:34,1004,Go down,1,0,Abby,Andrea
+Karina,6,8,Jump,08/11/2020,17:02,09:19,977,Go down,1,0,Andrea,Abby
+Karina,6,9,Spin,08/19/2020,16:16,09:45,1049,Tail wave,1,0,Abby,Andrea
+Karina,6,10,Go down,08/20/2020,16:52,09:52,1020,Tail wave,1,0,Abby,Jorge
+Karina,6,11,Spin,08/21/2020,16:47,09:23,996,Spin,0,0,Andrea,Andrea
+Karina,6,12,Clap,08/22/2020,16:43,09:16,993,Spin,1,0,Andrea,Abby
+Karina,6,13,Spin,08/27/2020,16:48,08:58,970,Spin,1,0,Andrea,Abby
+Karina,6,14,Sing,08/23/2020,16:23,09:53,1050,Spin,0,0,Abby,Abby
+Karina,6,15,Clap,08/30/2020,16:45,09:42,1018,Clap,0,0,Abby,Abby
+Karina,6,16,Sing,08/31/2020,16:44,09:50,1026,Clap,1,0,Abby,Nayeli
+Karina,6,17,Clap,09/03/2020,16:50,09:30,1000,Clap,1,0,Abby,Andrea
+Karina,6,18,Tail wave,09/09/2020,16:45,09:39,1014,Tail wave,1,0,Jorge,Abby
+Eva,7,1,Sing,09/12/2020,10:20,16:51,391,Sing,0,1,Gris,Gris
+Eva,7,2,Splash,09/14/2020,09:35,16:43,428,Sing,1,1,Gris,Tania
+Eva,7,3,Spin,09/15/2020,09:58,16:01,363,Clap,0,1,Gris,Gris
+Eva,7,4,Jump,09/17/2020,10:02,16:39,397,Tail wave,1,1,Gris,Juan Carlos
+Eva,7,5,Sing,09/25/2020,09:55,16:10,375,Sing,1,1,Gris,Andrea
+Eva,7,6,Sing,10/12/2020,09:53,16:55,422,Sing,1,1,Abby,Gris
+Eva,7,7,Tail wave,09/23/2020,09:43,16:31,408,Clap,1,1,Gris,Andrea
+Eva,7,8,Clap,09/26/2020,09:39,16:50,431,Sing,1,1,Gris,Andrea
+Eva,7,9,Jump,09/30/2020,09:46,16:05,379,Splash,1,1,Gris,Andrea
+Eva,7,10,Splash,09/29/2020,09:40,16:31,411,Tail wave,1,1,Andrea,Jorge
+Eva,7,11,Clap,10/01/2020,10:37,16:13,336,Sing,0,1,Gris,Gris
+Eva,7,12,Tail wave,10/03/2020,10:14,16:34,380,Tail wave,0,1,Gris,Gris
+Eva,7,13,Clap,10/13/2020,09:57,16:06,366,Sing,0,1,Andrea,Andrea
+Eva,7,14,Spin,10/14/2020,10:41,16:20,339,Spin,1,1,Gris,Andrea
+Eva,7,15,Jump,10/05/2020,09:35,16:05,390,Jump,1,1,Gris,Tania
+Eva,7,16,Tail wave,10/15/2020,10:22,16:44,382,Spin,1,1,Gris,Juan Carlos
+Eva,7,17,Spin,10/19/2020,10:18,16:05,347,Spin,1,1,Gris,Abril
+Eva,7,18,Splash,10/22/2020,09:44,16:05,381,Splash,1,1,Gris,Andrea
+Lluvia,7,1,Splash,9/19/2020,09:47,16:34,407,Splash,1,1,Tania,Andrea
+Lluvia,7,2,Tail wave,09/15/2020,09:58,16:48,410,Tail wave,0,1,Nayeli,Nayeli
+Lluvia,7,3,Tail wave,09/20/2020,09:47,16:17,390,Splash,1,1,Nayeli,Andrea
+Lluvia,7,4,Sing,09/14/2020,09:40,16:19,399,Sing,0,1,Nayeli,Nayeli
+Lluvia,7,5,Spin,09/25/2020,10:18,16:24,366,Jump,1,1,Tania,Andrea
+Lluvia,7,6,Clap,09/21/2020,09:47,16:23,396,Jump,1,1,Tania,Andrea
+Lluvia,7,7,Splash,09/23/2020,10:14,16:22,368,Fart,1,1,Tania,Andrea
+Lluvia,7,8,Tail wave,09/28/2020,09:50,16:09,379,Tail wave,1,1,Tania,Gris
+Lluvia,7,9,Jump,09/29/2020,09:24,16:29,425,Jump,1,1,Tania,Andrea
+Lluvia,7,10,Clap,09/30/2020,09:41,16:01,380,Clap,1,1,Tania,Juan Carlos
+Lluvia,7,11,Splash,10/01/2020,10:20,16:14,354,Splash,1,1,Tania,Andrea
+Lluvia,7,12,Spin,10/03/2020,10:00,16:08,368,Splash,1,1,Hector,Nayeli
+Lluvia,7,13,Jump,10/14/2020,10:30,16:25,355,Spin,0,1,Andrea,Andrea
+Lluvia,7,14,Clap,10/05/2020,09:41,16:22,401,Splash,1,1,Andrea,Tania
+Lluvia,7,15,Sing,10/12/2020,09:35,16:37,422,Splash,1,1,Juan Carlos,Andrea
+Lluvia,7,16,Spin,10/13/2020,09:44,16:00,376,Tail wave,1,1,Tania,Andrea
+Lluvia,7,17,Jump,10/15/2020,10:16,16:39,383,Spin,1,1,Tania,Rafa
+Lluvia,7,18,Sing,10/28/2020,09:44,16:14,390,Clap,1,1,Tania,Andrea
+Nouba,7,1,Spin,09/20/2020,09:54,16:02,368,Spin,1,1,Abril,Juan Carlos
+Nouba,7,2,Splash,09/21/2020,09:40,16:25,405,Clap,1,1,Abril,Andrea
+Nouba,7,3,Clap,09/23/2020,09:48,16:30,408,Spin,1,1,Abril,Andrea
+Nouba,7,4,Sing,09/25/2020,10:01,16:12,371,Spin,1,1,Abril,Andrea
+Nouba,7,5,Tail wave,09/26/2020,09:44,16:50,426,Spin,1,1,Carlos,Abril
+Nouba,7,6,Jump,09/30/2020,09:53,16:10,377,Jump,1,1,Abril,Andrea
+Nouba,7,7,Tail wave,10/01/2020,10:32,16:36,364,Splash,0,1,Abril,Abril
+Nouba,7,8,Jump,10/12/2020,09:28,16:35,427,Spin,1,1,Abril,Gris
+Nouba,7,9,Splash,09/29/2020,09:43,16:32,409,Splash,1,1,Abril,Andrea
+Nouba,7,10,Spin,10/03/2020,10:19,16:35,376,Spin,0,1,Abril,Abril
+Nouba,7,11,Sing,10/05/2020,10:03,16:32,389,Spin,1,1,Abril,Gris
+Nouba,7,12,Tail wave,10/14/2020,10:19,16:23,364,Clap,1,1,Abril,Andrea
+Nouba,7,13,Sing,10/15/2020,09:15,16:37,437,Splash,1,1,Abril,Andrea

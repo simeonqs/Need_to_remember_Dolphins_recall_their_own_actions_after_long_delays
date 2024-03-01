@@ -64,11 +64,3 @@ message('Saved model.')
 # Report for paper
 print(precis(post))
 
-# Test cross chance-level
-times = log2(seq(0, 20, 0.01))
-cross = sapply(1:length(post$a_bar), function(i){
-  means = inv_logit( post$a_bar[i] + post$b_bar[i] * times )
-  return(times[which(means < 0.25)][1])
-})
-dens(cross)
-mean(cross)

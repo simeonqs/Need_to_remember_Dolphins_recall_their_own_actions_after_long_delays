@@ -53,7 +53,7 @@ plot(plot_dat$phase + runif(nrow(plot_dat), -0.2, 0.2),
      xlab = 'Phase', ylab = 'Response', main = '')
 mtext('A', 3, 0.8, adj = 0, font = 2)
 mtext('Delay [hours]', 1, 2.3, cex = 0.75)
-axis(1, at = 1:5, labels = 1:5)
+axis(1, at = 1:5, labels = c(0.25, 2, 4, 6, 16))
 axis(2, at = c(0, 1), labels = c('Incorrect', 'Correct'))
 lines(1:5, rep(1/6, 5), lty = 5, lwd = 3, col = alpha('black', 0.7))
 for(i in sample(length(post_prospective_delay$a_bar), 20)) 
@@ -79,19 +79,19 @@ plot(prior, lwd = 2, xlim = c(0, 1), ylim = c(0, 13), main = '',
 mtext('Probability of success', 1, 2.3, cex = 0.75)
 mtext('B', 3, 0.8, adj = 0, font = 2)
 text(0.3, 12, 
-     sprintf('Mean contrast: %s', 
+     sprintf('Average contrast: %.2f', 
              round(mean(
-               inv_logit(post_prospective_control_0$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_0$a_loc[,2])), 2)), 
+               post_prospective_control_0$a_loc[,1] - 
+                 post_prospective_control_0$a_loc[,2]), 2)), 
      cex = 0.75, adj = 0)
 text(0.3, 11, 
-     sprintf('89%% PI: %s, %s', 
+     sprintf('89%% PI: %.2f, %.2f', 
              round(PI(
-               inv_logit(post_prospective_control_0$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_0$a_loc[,2]))[1], 2),
+               post_prospective_control_0$a_loc[,1] - 
+                 post_prospective_control_0$a_loc[,2])[1], 2),
              round(PI(
-               inv_logit(post_prospective_control_0$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_0$a_loc[,2]))[2], 2)), 
+               post_prospective_control_0$a_loc[,1] - 
+                 post_prospective_control_0$a_loc[,2])[2], 2)), 
      cex = 0.75, adj = 0)
 polygon(prior, col = alpha('grey', 0.5))
 post_prospective_control_0$a_loc[,1] %>% inv_logit %>% density(bw = 0.02) %>% 
@@ -114,19 +114,19 @@ mtext('Probability of success', 1, 2.3, cex = 0.75)
 mtext('Density', 4, 2.3, cex = 0.75)
 mtext('C', 3, 0.8, adj = 0, font = 2)
 text(0.3, 12, 
-     sprintf('Mean contrast: %.2f', 
+     sprintf('Average contrast: %.2f', 
              round(mean(
-               inv_logit(post_prospective_control_3$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_3$a_loc[,2])), 2)), 
+               post_prospective_control_3$a_loc[,1] - 
+                 post_prospective_control_3$a_loc[,2]), 2)), 
      cex = 0.75, adj = 0)
 text(0.3, 11, 
      sprintf('89%% PI: %s, %s', 
              round(PI(
-               inv_logit(post_prospective_control_3$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_3$a_loc[,2]))[1], 2),
+               post_prospective_control_3$a_loc[,1] - 
+                 post_prospective_control_3$a_loc[,2])[1], 2),
              round(PI(
-               inv_logit(post_prospective_control_3$a_loc[,1]) - 
-                 inv_logit(post_prospective_control_3$a_loc[,2]))[2], 2)), 
+               post_prospective_control_3$a_loc[,1] - 
+                 post_prospective_control_3$a_loc[,2])[2], 2)), 
      cex = 0.75, adj = 0)
 
 dev.off()

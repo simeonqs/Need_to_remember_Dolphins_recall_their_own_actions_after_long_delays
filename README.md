@@ -103,8 +103,12 @@ NOTE: Some large model files are not available in this repository. They can be d
   - `﻿Animal`: the name of the test animal (Achille, Clara, Ulisse)
   - `Session`: the session number (1-8)
   - `Behaviour_1`: the first behaviour asked by the trainer (belly_up, clap, repeat, sing, spin)
-  - `Offered_1`: the first behaviour offered by the dolphin (belly_up, clap, repeat, sing, spin)
- 
+  - `Offered_1`: the first behaviour offered by the dolphin (belly_up, clap, not_ask, sing, spin)
+  - `Behaviour_2`: the second behaviour asked by the trainer (belly_up, clap, repeat, sing, spin)
+  - `Offered_2`: the second behaviour offered by the dolphin (belly_up, clap, not_ask, sing, spin)
+    
+-  `analysis/results`: contains the figures (.pdf) and model outputs (.RData) from all R scripts
+
     
 NOTE: each code file contains a short description. 
 NOTE: some csv files contain typo's, these are fixed in the scripts that load them and only the corrected values are included in the meta data.

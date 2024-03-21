@@ -42,14 +42,14 @@ NOTE: Some large model files are not available in this repository. They can be d
 - `analysis/code/12_plot_figure_3.R`: script to plot figure 3 from the main text
 
 - `analysis/data/data_enactment_effect_with_action.csv`: data for the trials testing the enactment effect, where dolphins performed the action
-  - `﻿Animal`: the name of the test animal (Achille, Ulisse, Ilse)
-  - `Phase`: the phase of the experiment (0, 3)
+  - `﻿Animal`: the name of the test animal (Achille, Ulisse)
+  - `Phase`: the phase of the experiment (1, 2)
   - `Trial`: the trial number within session (1-20)
   - `Behaviour marked`: the name of the behaviour the animal should perform (Belly up, Tail wave, Spin, Clap)
-  - `Date`: date for the session (dd/mm/yyyy)
-  - `Time marking`: time when the behaviour was marked (hh:mm, empty for phase 0)
-  - `Time recall`: time when the behaviour was performed (hh:mm, empty for phase 0)
-  - `Total time`: the total time of the delay (seconds, empty for phase 0)
+  - `Date`: date for the session (dd/mm/yyyy, empty for phase 1)
+  - `Time marking`: time when the behaviour was marked (emtpy)
+  - `Time recall`: time when the behaviour was performed (emtpy)
+  - `Total time`: the total time of the delay (empty)
   - `Behaviour offered`: the behaviour performed by the animal (Belly up, Tail wave, Spin, Clap, Pectoral)
   - `Double blind`: always 0 or empty, these trials were not double blind
   - `Distractions`: empty
@@ -62,7 +62,7 @@ NOTE: Some large model files are not available in this repository. They can be d
   - `Time marking`: empty
   - `Time recall`: empty
   - `Total time`: the total time of the delay in seconds (10, 60)
-  - `Behaviour offered`: the behaviour performed by the animal (Belly up, Tail wave, Spin, Clap)
+  - `Behaviour offered`: the behaviour performed by the animal (Belly up, Tail wave, Spin, Clap, Sing)
   - `Double blind`: always 0, these trials were not double blind
   - `Distractions`: empty
 - `analysis/data/data_prospective_control.csv`: data for control the trials, where dolphins had not been trained to expect a delay
@@ -92,10 +92,22 @@ NOTE: Some large model files are not available in this repository. They can be d
   - `Double blind`: always 0 or empty, these trials were not double blind
   - `Distractions`: empty
 - `analysis/data/data_retrospective_delay.csv`: data for the trials testing retrospective memory, with delays
-  - `﻿Animal`: the name of the test animal
-- `analysis/data/data_retrospective_no_delay.csv`: data for the trials testing retrospective memory, without delays
-
+  - `﻿Animal`: the name of the test animal (Achille, Clara, Ulisse)
+  - `Session`: the session number (1-12)
+  - `correct.or.not.1`: whether or not the first behaviour was correct (c = correct, n = not correct)
+  - `correct.or.not.2`: whether or not the second behaviour was correct (c = correct, n = not correct)
+  - `delay`: the duration of the delay between the first and second behaviour (3, 6, 9, 12, 18, 21)
+  - `b1`: the first behaviour asked by the trainer (aplauso, belly_up, canto, giro)
+  - `b2`: the second behaviour asked by the trainer (aplauso, belly_up, canto, giro, repeat) 
+- `analysis/data/data_retrospective_no_delay.csv`: data for the trials testing retrospective memory, without delays (note that three behaviours were performed, so that the last two could be repeats to create a double repeat, this is not clear from the csv, but is fixed when the data is loaded in `06_retrospective_delay_load_data.R`
+  - `﻿Animal`: the name of the test animal (Achille, Clara, Ulisse)
+  - `Session`: the session number (1-8)
+  - `Behaviour_1`: the first behaviour asked by the trainer (belly_up, clap, repeat, sing, spin)
+  - `Offered_1`: the first behaviour offered by the dolphin (belly_up, clap, repeat, sing, spin)
+ 
+    
 NOTE: each code file contains a short description. 
+NOTE: some csv files contain typo's, these are fixed in the scripts that load them and only the corrected values are included in the meta data.
 
 ------------------------------------------------
 

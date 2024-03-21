@@ -19,6 +19,24 @@ NOTE: Some large model files are not available in this repository. They can be d
 
 **File information and meta data:**
 
+- `.gitignore`: tells git which files should not be synchronised
+- `LICENSE`: file with license details
+- `README.md`: the file you are reading right now
+- `dolphin_memory_new.Rproj`: R project file, if you open this all paths will work for this repo
+- `statistical_analysis.Rmd`: R markdown document with all LaTeX code for the models
+- `statistical_analysis.docx`: Word version of the models
+- `statistical_analysis.pdf`: PDF version of the models
+
+- `analysis/code/00_prospective_delay_load_data.R`: script to load the data for the trials testing prospective memory including delays
+- `analysis/code/01_prospective_delay_run_model.R`: script to run the models for the trials testing prospective memory including delays
+- `analysis/code/02_prospective_control_load_data.R`:
+- `analysis/code/`:
+- `analysis/code/`:
+- `analysis/code/`:
+- `analysis/code/`:
+- `analysis/code/`:
+- `analysis/code/`:
+- `analysis/code/`:
 
 NOTE: each code file contains a short description. 
 

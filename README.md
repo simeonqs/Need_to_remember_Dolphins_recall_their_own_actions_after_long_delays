@@ -77,6 +77,8 @@ NOTE: Some large model files are not available in this repository. They can be d
   - `Behaviour offered`: the behaviour performed by the animal (Belly up, Tail wave, Spin, Clap, Pectoral)
   - `Double blind`: always 0 or empty, these trials were not double blind
   - `Distractions`: empty
+  - `Trainer mark`: the trainer marking the behaviour to be remembered, character ('', Abby, Abril, Andrea, Benja, Carlos, Emma, Gris, Hector, Jenny, Jhonny, Jorge, Juan Carlos, Nayeli, Rafa, Tania, Vero)
+  - `Trainer recall`: the trainer marking the behaviour to be remembered, character ('', Abby, Abril, Alan, Andrea, Benja, Carlos, Ceci, Emma, Gris, Hector, Jenny, Jhonny, Jorge, Juan Carlos, Nayeli, Rafa, Richie, Tania, Tavo, Vero) 
 - `analysis/data/data_prospective_delay.csv`: data for the trials testing prospective memory including delays
   - `﻿Animal`: the name of the test animal (Eva, Karina, Lluvia, Nouba, Nemo)
   - `Phase`: the phase of the experiment (0-7)

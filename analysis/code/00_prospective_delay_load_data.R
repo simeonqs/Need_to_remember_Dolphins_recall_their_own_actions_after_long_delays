@@ -15,6 +15,7 @@ path_data_prospective = 'analysis/data/data_prospective_delay.csv'
 dat_delay = read.csv(path_data_prospective)
 dat_delay$Behaviour.marked[dat_delay$Behaviour.marked %in% 
                             c('clap', 'Clao')] = 'Clap'
+dat_delay$Behaviour.marked[dat_delay$Behaviour.marked == 'fart'] = 'Fart'
 dat_delay$Behaviour.marked = str_remove_all(dat_delay$Behaviour.marked, ' ')
 dat_delay$Behaviour.offered = str_remove_all(dat_delay$Behaviour.offered, ' ')
 dat_delay$Trainer.recall = ifelse(dat_delay$Trainer.recall %in% 

@@ -29,14 +29,17 @@ NOTE: Some large model files are not available in this repository. They can be d
 
 - `analysis/code/00_prospective_delay_load_data.R`: script to load the data for the trials testing prospective memory including delays
 - `analysis/code/01_prospective_delay_run_model.R`: script to run the models for the trials testing prospective memory including delays
-- `analysis/code/02_prospective_control_load_data.R`:
-- `analysis/code/`:
-- `analysis/code/`:
-- `analysis/code/`:
-- `analysis/code/`:
-- `analysis/code/`:
-- `analysis/code/`:
-- `analysis/code/`:
+- `analysis/code/02_prospective_control_load_data.R`: script to load the data for control trials, where dolphins had not been trained to expect a delay
+- `analysis/code/03_prospective_control_run_models.R`: script to run the models for control trials, where dolphins had not been trained to expect a delay
+- `analysis/code/04_retrospective_no_delay_load_data.R`: script to load the data for the trials testing retrospective memory, without delays
+- `analysis/code/05_retrospective_no_delay_run_model.R`: script to run the models for the trials testing retrospective memory, without delays
+- `analysis/code/06_retrospective_delay_load_data.R`: script to load the data for the trials testing retrospective memory, with delays
+- `analysis/code/07_retrospective_delay_run_model.R`: script to run the models for the trials testing retrospective memory, with delays
+- `analysis/code/08_enactment_effect_load_data.R`: script to load the data for trials testing the enactment effect
+- `analysis/code/09_enactment_effect_run_model.R`: script to run the model for trials testing the enactment effect
+- `analysis/code/10_plot_figure_1.R`: script to plot figure 1 from the main text
+- `analysis/code/11_plot_figure_2.R`: script to plot figure 2 from the main text
+- `analysis/code/12_plot_figure_3.R`: script to plot figure 3 from the main text
 
 NOTE: each code file contains a short description. 
 

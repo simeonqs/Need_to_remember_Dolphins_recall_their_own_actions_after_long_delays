@@ -9,7 +9,7 @@ path_source_data_delay = 'analysis/code/00_prospective_delay_load_data.R'
 path_source_data_control = 'analysis/code/02_prospective_control_load_data.R'
 path_prospective_delay_model = 'analysis/results/m_prospective_delay.RData'
 path_ms_prospective_control = 'analysis/results/ms_prospective_control.RData'
-path_pdf = 'analysis/results/figure_1.pdf'
+path_pdf = 'analysis/results/figure_2.pdf'
 
 # Load data and results
 source(path_source_data_delay)

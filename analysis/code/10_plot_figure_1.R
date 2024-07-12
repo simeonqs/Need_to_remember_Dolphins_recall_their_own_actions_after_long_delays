@@ -20,7 +20,7 @@ set.seed(1)
 # Paths
 path_source_data = 'analysis/code/06_retrospective_delay_load_data.R'
 path_m_retrospective_delay = 'analysis/results/m_retrospective_delay.RData'
-path_pdf = 'analysis/results/figure_2.pdf'
+path_pdf = 'analysis/results/figure_1.pdf'
 
 # Load data
 source(path_source_data)

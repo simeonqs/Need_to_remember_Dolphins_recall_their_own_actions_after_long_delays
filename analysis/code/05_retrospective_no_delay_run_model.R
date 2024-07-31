@@ -33,8 +33,8 @@ m_retrospective_no_delay = ulam(
 print(precis(m_retrospective_no_delay))
 
 # Store results and print results main text
-save(m_retrospective_no_delay, file = path_retrospective_no_delay)
 post = extract.samples(m_retrospective_no_delay)
+save(m_retrospective_no_delay, post, file = path_retrospective_no_delay)
 message(sprintf(
   'average performance across 208 trials/animal: %s%%; 89%% PI: %s, %s%%',
   round(inv_logit(mean(post$a_bar)), 2) * 100,
